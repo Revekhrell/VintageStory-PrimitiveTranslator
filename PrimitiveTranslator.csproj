@@ -1,0 +1,192 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+    
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net10.0-windows</TargetFramework>
+        <ApplicationIcon>Icons\Application\Icon.ico</ApplicationIcon>
+        <Version>1.0.0</Version>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+    
+    <ItemGroup>
+      <None Remove="Resources\Locale\ab.json"/>
+      <None Remove="Resources\Locale\af.json"/>
+      <None Remove="Resources\Locale\ar.json"/>
+      <None Remove="Resources\Locale\az.json"/>
+      <None Remove="Resources\Locale\ba.json"/>
+      <None Remove="Resources\Locale\be.json"/>
+      <None Remove="Resources\Locale\bg.json"/>
+      <None Remove="Resources\Locale\bn.json"/>
+      <None Remove="Resources\Locale\bo.json"/>
+      <None Remove="Resources\Locale\bs.json"/>
+      <None Remove="Resources\Locale\ce.json"/>
+      <None Remove="Resources\Locale\cs.json"/>
+      <None Remove="Resources\Locale\cu.json"/>
+      <None Remove="Resources\Locale\cv.json"/>
+      <None Remove="Resources\Locale\da.json"/>
+      <None Remove="Resources\Locale\de.json"/>
+      <None Remove="Resources\Locale\dv.json"/>
+      <None Remove="Resources\Locale\el.json"/>
+      <None Remove="Resources\Locale\en.json"/>
+      <None Remove="Resources\Locale\es.json"/>
+      <None Remove="Resources\Locale\et.json"/>
+      <None Remove="Resources\Locale\fa.json"/>
+      <None Remove="Resources\Locale\fi.json"/>
+      <None Remove="Resources\Locale\fj.json"/>
+      <None Remove="Resources\Locale\fl.json"/>
+      <None Remove="Resources\Locale\fo.json"/>
+      <None Remove="Resources\Locale\fr.json"/>
+      <None Remove="Resources\Locale\ga.json"/>
+      <None Remove="Resources\Locale\haw.json"/>
+      <None Remove="Resources\Locale\he.json"/>
+      <None Remove="Resources\Locale\hi.json"/>
+      <None Remove="Resources\Locale\hr.json"/>
+      <None Remove="Resources\Locale\hu.json"/>
+      <None Remove="Resources\Locale\hy.json"/>
+      <None Remove="Resources\Locale\id.json"/>
+      <None Remove="Resources\Locale\is.json"/>
+      <None Remove="Resources\Locale\it.json"/>
+      <None Remove="Resources\Locale\ja.json"/>
+      <None Remove="Resources\Locale\ka.json"/>
+      <None Remove="Resources\Locale\kg.json"/>
+      <None Remove="Resources\Locale\kk.json"/>
+      <None Remove="Resources\Locale\kl.json"/>
+      <None Remove="Resources\Locale\ko.json"/>
+      <None Remove="Resources\Locale\kv.json"/>
+      <None Remove="Resources\Locale\ky.json"/>
+      <None Remove="Resources\Locale\la.json"/>
+      <None Remove="Resources\Locale\lb.json"/>
+      <None Remove="Resources\Locale\lt.json"/>
+      <None Remove="Resources\Locale\lv.json"/>
+      <None Remove="Resources\Locale\mk.json"/>
+      <None Remove="Resources\Locale\mn.json"/>
+      <None Remove="Resources\Locale\mo.json"/>
+      <None Remove="Resources\Locale\ms.json"/>
+      <None Remove="Resources\Locale\mt.json"/>
+      <None Remove="Resources\Locale\ne.json"/>
+      <None Remove="Resources\Locale\nl.json"/>
+      <None Remove="Resources\Locale\no.json"/>
+      <None Remove="Resources\Locale\os.json"/>
+      <None Remove="Resources\Locale\pl.json"/>
+      <None Remove="Resources\Locale\pt.json"/>
+      <None Remove="Resources\Locale\ro.json"/>
+      <None Remove="Resources\Locale\ru.json"/>
+      <None Remove="Resources\Locale\sa.json"/>
+      <None Remove="Resources\Locale\sk.json"/>
+      <None Remove="Resources\Locale\sl.json"/>
+      <None Remove="Resources\Locale\so.json"/>
+      <None Remove="Resources\Locale\sq.json"/>
+      <None Remove="Resources\Locale\sr.json"/>
+      <None Remove="Resources\Locale\sv.json"/>
+      <None Remove="Resources\Locale\tg.json"/>
+      <None Remove="Resources\Locale\th.json"/>
+      <None Remove="Resources\Locale\tk.json"/>
+      <None Remove="Resources\Locale\tr.json"/>
+      <None Remove="Resources\Locale\tt.json"/>
+      <None Remove="Resources\Locale\uk.json"/>
+      <None Remove="Resources\Locale\uz.json"/>
+      <None Remove="Resources\Locale\vi.json"/>
+      <None Remove="Resources\Locale\zh.json"/>
+      <None Remove="Resources\Syntax\Json.xshd.xml"/>
+    </ItemGroup>
+    
+    <ItemGroup>
+      <Content Include="Icons\Application\Icon.ico"/>
+    </ItemGroup>
+    
+    <ItemGroup>
+      <EmbeddedResource Include="Resources\Locale\ab.json"/>
+      <EmbeddedResource Include="Resources\Locale\af.json"/>
+      <EmbeddedResource Include="Resources\Locale\ar.json"/>
+      <EmbeddedResource Include="Resources\Locale\az.json"/>
+      <EmbeddedResource Include="Resources\Locale\ba.json"/>
+      <EmbeddedResource Include="Resources\Locale\be.json"/>
+      <EmbeddedResource Include="Resources\Locale\bg.json"/>
+      <EmbeddedResource Include="Resources\Locale\bn.json"/>
+      <EmbeddedResource Include="Resources\Locale\bo.json"/>
+      <EmbeddedResource Include="Resources\Locale\bs.json"/>
+      <EmbeddedResource Include="Resources\Locale\ce.json"/>
+      <EmbeddedResource Include="Resources\Locale\cs.json"/>
+      <EmbeddedResource Include="Resources\Locale\cu.json"/>
+      <EmbeddedResource Include="Resources\Locale\cv.json"/>
+      <EmbeddedResource Include="Resources\Locale\da.json"/>
+      <EmbeddedResource Include="Resources\Locale\de.json"/>
+      <EmbeddedResource Include="Resources\Locale\dv.json"/>
+      <EmbeddedResource Include="Resources\Locale\el.json"/>
+      <EmbeddedResource Include="Resources\Locale\en.json"/>
+      <EmbeddedResource Include="Resources\Locale\es.json"/>
+      <EmbeddedResource Include="Resources\Locale\et.json"/>
+      <EmbeddedResource Include="Resources\Locale\fa.json"/>
+      <EmbeddedResource Include="Resources\Locale\fi.json"/>
+      <EmbeddedResource Include="Resources\Locale\fj.json"/>
+      <EmbeddedResource Include="Resources\Locale\fl.json"/>
+      <EmbeddedResource Include="Resources\Locale\fo.json"/>
+      <EmbeddedResource Include="Resources\Locale\fr.json"/>
+      <EmbeddedResource Include="Resources\Locale\ga.json"/>
+      <EmbeddedResource Include="Resources\Locale\haw.json"/>
+      <EmbeddedResource Include="Resources\Locale\he.json"/>
+      <EmbeddedResource Include="Resources\Locale\hi.json"/>
+      <EmbeddedResource Include="Resources\Locale\hr.json"/>
+      <EmbeddedResource Include="Resources\Locale\hu.json"/>
+      <EmbeddedResource Include="Resources\Locale\hy.json"/>
+      <EmbeddedResource Include="Resources\Locale\id.json"/>
+      <EmbeddedResource Include="Resources\Locale\is.json"/>
+      <EmbeddedResource Include="Resources\Locale\it.json"/>
+      <EmbeddedResource Include="Resources\Locale\ja.json"/>
+      <EmbeddedResource Include="Resources\Locale\ka.json"/>
+      <EmbeddedResource Include="Resources\Locale\kg.json"/>
+      <EmbeddedResource Include="Resources\Locale\kk.json"/>
+      <EmbeddedResource Include="Resources\Locale\kl.json"/>
+      <EmbeddedResource Include="Resources\Locale\ko.json"/>
+      <EmbeddedResource Include="Resources\Locale\kv.json"/>
+      <EmbeddedResource Include="Resources\Locale\ky.json"/>
+      <EmbeddedResource Include="Resources\Locale\la.json"/>
+      <EmbeddedResource Include="Resources\Locale\lb.json"/>
+      <EmbeddedResource Include="Resources\Locale\lt.json"/>
+      <EmbeddedResource Include="Resources\Locale\lv.json"/>
+      <EmbeddedResource Include="Resources\Locale\mk.json"/>
+      <EmbeddedResource Include="Resources\Locale\mn.json"/>
+      <EmbeddedResource Include="Resources\Locale\mo.json"/>
+      <EmbeddedResource Include="Resources\Locale\ms.json"/>
+      <EmbeddedResource Include="Resources\Locale\mt.json"/>
+      <EmbeddedResource Include="Resources\Locale\ne.json"/>
+      <EmbeddedResource Include="Resources\Locale\nl.json"/>
+      <EmbeddedResource Include="Resources\Locale\no.json"/>
+      <EmbeddedResource Include="Resources\Locale\os.json"/>
+      <EmbeddedResource Include="Resources\Locale\pl.json"/>
+      <EmbeddedResource Include="Resources\Locale\pt.json"/>
+      <EmbeddedResource Include="Resources\Locale\ro.json"/>
+      <EmbeddedResource Include="Resources\Locale\ru.json"/>
+      <EmbeddedResource Include="Resources\Locale\sa.json"/>
+      <EmbeddedResource Include="Resources\Locale\sk.json"/>
+      <EmbeddedResource Include="Resources\Locale\sl.json"/>
+      <EmbeddedResource Include="Resources\Locale\so.json"/>
+      <EmbeddedResource Include="Resources\Locale\sq.json"/>
+      <EmbeddedResource Include="Resources\Locale\sr.json"/>
+      <EmbeddedResource Include="Resources\Locale\sv.json"/>
+      <EmbeddedResource Include="Resources\Locale\tg.json"/>
+      <EmbeddedResource Include="Resources\Locale\th.json"/>
+      <EmbeddedResource Include="Resources\Locale\tk.json"/>
+      <EmbeddedResource Include="Resources\Locale\tr.json"/>
+      <EmbeddedResource Include="Resources\Locale\tt.json"/>
+      <EmbeddedResource Include="Resources\Locale\uk.json"/>
+      <EmbeddedResource Include="Resources\Locale\uz.json"/>
+      <EmbeddedResource Include="Resources\Locale\vi.json"/>
+      <EmbeddedResource Include="Resources\Locale\zh.json"/>
+      <EmbeddedResource Include="Resources\Syntax\Json.xshd.xml"/>
+    </ItemGroup>
+    
+    <ItemGroup>
+      <PackageReference Include="AvalonEdit" Version="6.3.1.120"/>
+      <PackageReference Include="Cybrex.Core" Version="1.0.1"/>
+      <PackageReference Include="Dorssel.EntityFrameworkCore.Sqlite.Timestamp" Version="8.0.2"/>
+      <PackageReference Include="Dragablz" Version="0.0.3.234"/>
+      <PackageReference Include="GTranslate" Version="2.4.0"/>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="10.0.12"/>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.4"/>
+      <PackageReference Include="Prism.Core" Version="9.0.537"/>
+      <PackageReference Include="System.IO.Hashing" Version="10.0.12"/>
+      <PackageReference Include="WindowsAPICodePack" Version="8.0.15.2"/>
+    </ItemGroup>
+    
+</Project>

@@ -1,0 +1,30 @@
+{
+    "InterfaceStrings:MainWindowTitle": "Примитивный переводчик для примитивных переводчиков",
+    "InterfaceStrings:SettingsHeader": "Настройки",
+    "InterfaceStrings:LanguageLabel": "Язык",
+    "InterfaceStrings:ModsDirectoryLabel": "Папка модов",
+    "InterfaceStrings:ExportDirectoryLabel": "Папка экспорта",
+    "InterfaceStrings:SelectDirectoryTooltip": "Выбрать папку",
+    "InterfaceStrings:ExportLanguagesLabel": "Языки экспорта",
+    "InterfaceStrings:ReloadModsTooltip": "Перечитать моды",
+    "InterfaceStrings:ExportTooltip": "Экспортировать переводчик",
+    "InterfaceStrings:TranslateTooltip": "Перевести текущую вкладку",
+    "InterfaceStrings:DeleteTooltip": "Удалить выделенные моды",
+
+    "Message:Header:Delete": "Удаление",
+    "Message:Header:Export": "Экспорт",
+    "Message:Header:Error": "Ошибка",
+    "Message:Header:Load": "Загрузка",
+    "Message:Header:Save": "Сохранение",
+    "Message:Header:Translate": "Перевод",
+
+    "Message:Body:Delete": "Удалить выбранные моды?",
+    "Message:Body:Export": "Выполнить экспорт мода?",
+    "Message:Body:Load": "Выполнить загрузку модов?",
+    "Message:Body:Save": "Изменения не были сохранены. Сохранить?",
+    "Message:Body:SaveDictionary": "Словарь \"{editor.Title}\" не сохранён. Сохранить?",
+    "Message:Body:Translate": "Выполнить автоматический перевод?",
+    "Message:Body:Translate:Timeout": "От переводчика не последовало ответа.",
+    "Message:Body:Translate:Unknown": "Возникла ошибка автоматического перевода.",
+    "Message:Body:Error:Save:JsonSyntaxTab": "Невозможно сохранить \"{0}\" из-за ошибки синтиксиса."
+}

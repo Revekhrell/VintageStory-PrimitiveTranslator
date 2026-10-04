@@ -1,0 +1,12 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Geometry x:Key="ArchivateGeometry">
+        F1 M1920,1920z M0,0z M533.333,560L533.333,720 240,720 240.008,1173.33 449.074,1386.67 1470.93,1386.67 1679.99,1173.33 1680,720 1386.67,720 1386.67,560 1738.67,560C1794.63,560,1840,605.368,1840,661.333L1840,1173.33 1856,1173.33C1891.35,1173.33,1920,1201.99,1920,1237.33L1920,1856C1920,1891.35,1891.35,1920,1856,1920L64,1920C28.654,1920,0,1891.35,0,1856L0,1237.33C0,1201.99,28.654,1173.33,64,1173.33L80,1173.33 80,661.333C80,605.368,125.369,560,181.333,560L533.333,560z M1040,0L1040,958.86 1223.43,775.431 1336.57,888.569 960,1265.14 583.431,888.569 696.569,775.431 880,958.86 880,0 1040,0z
+    </Geometry>
+    
+    <DrawingGroup x:Key="ArchivateDrawingGroup" ClipGeometry="M0,0 V1920 H1920 V0 H0 Z">
+        <GeometryDrawing Brush="{StaticResource ForegroundDefault}" Geometry="{StaticResource ArchivateGeometry}" />
+    </DrawingGroup>
+    
+    <DrawingImage x:Key="ArchivateDrawingImage" Drawing="{StaticResource ArchivateDrawingGroup}" />
+</ResourceDictionary>

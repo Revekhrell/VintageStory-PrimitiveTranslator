@@ -1,0 +1,16 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Geometry x:Key="TranslateGeometry">
+        F1 M48,48z M0,0z M43.8,41.2L33.9,16.3A2.1,2.1,0,0,0,32,15L30,15A2.1,2.1,0,0,0,28.1,16.3L23.3,28.4A24,24,0,0,1,17.7,24.1C21.1,20.1,23.6,15.3,23.9,11L25.9,11A2.1,2.1,0,0,0,28,9.3A2,2,0,0,0,26,7L17.5,7 17.5,4.1A2.1,2.1,0,0,0,15.8,2A2,2,0,0,0,13.5,4L13.5,7 6.1,7A2.1,2.1,0,0,0,4,8.7A2,2,0,0,0,6,11L19.9,11C19.6,14,17.6,17.7,15,21.1A34.1,34.1,0,0,1,11.8,16.2A2.1,2.1,0,0,0,9.6,15A2,2,0,0,0,8.2,17.9A39.1,39.1,0,0,0,12.3,24.1A24,24,0,0,1,5.3,29.1A2.2,2.2,0,0,0,4,31.4A2,2,0,0,0,6,33L6.8,32.8A26.4,26.4,0,0,0,15,27A28.1,28.1,0,0,0,21.8,32.1L18.2,41.2A2,2,0,0,0,20,44A2.2,2.2,0,0,0,21.9,42.7L25.8,33 36.2,33 40.1,42.7A2.2,2.2,0,0,0,42,44A2,2,0,0,0,43.8,41.2z M27.4,29L31,19.9 34.6,29z
+    </Geometry>
+    
+    <DrawingGroup x:Key="TranslateDrawingGroup" ClipGeometry="M0,0 V48 H48 V0 H0 Z">
+        <DrawingGroup Opacity="1">
+            <DrawingGroup Opacity="1">
+                <GeometryDrawing Brush="{StaticResource ForegroundDefault}" Geometry="{StaticResource TranslateGeometry}"/>
+            </DrawingGroup>
+        </DrawingGroup>
+    </DrawingGroup>
+    
+    <DrawingImage x:Key="TranslateDrawingImage" Drawing="{StaticResource TranslateDrawingGroup}"/>
+</ResourceDictionary>
