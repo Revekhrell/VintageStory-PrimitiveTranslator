@@ -24,5 +24,8 @@
     "Message:Body:Translate": "स्वचालित अनुवाद गर्ने?",
     "Message:Body:Translate:Timeout": "अनुवादकबाट कुनै प्रतिक्रिया आएन।",
     "Message:Body:Translate:Unknown": "स्वचालित अनुवाद त्रुटि भयो।",
-    "Message:Body:Error:Save:JsonSyntaxTab": "वाक्यविन्यास त्रुटिको कारण \"{0}\" सुरक्षित गर्न सकिँदैन।"
+    "Message:Body:Error:Save:JsonSyntaxTab": "वाक्यविन्यास त्रुटिको कारण \"{0}\" सुरक्षित गर्न सकिँदैन।",
+    "InterfaceStrings:CheckKeysTooltip": "अनुवाद वा समीक्षा आवश्यक पर्ने मोडहरू चयन गर्नुहोस्",
+    "Message:Header:Check": "जाँच",
+    "Message:Body:CheckKeys": "नयाँ वा परिमार्जित कुञ्जीहरूका लागि मोडहरू जाँच्ने?"
 }

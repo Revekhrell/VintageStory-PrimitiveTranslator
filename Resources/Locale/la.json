@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Interpretationem automaticam facere?",
     "Message:Body:Translate:Timeout": "Nullum responsum ab interprete.",
     "Message:Body:Translate:Unknown": "Error interpretationis automaticae accidit.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Non potest servare \"{0}\" propter errorem syntaxis."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Non potest servare \"{0}\" propter errorem syntaxis.",
+    "InterfaceStrings:CheckKeysTooltip": "Elige modos qui interpretatione aut recognitione egent",
+    "Message:Header:Check": "Recognitio",
+    "Message:Body:CheckKeys": "Recognoscere modos pro clavibus novis aut mutatis?"
 }

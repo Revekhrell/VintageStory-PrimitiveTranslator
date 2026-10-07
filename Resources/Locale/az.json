@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Avtomatik tərcümə edilsin?",
     "Message:Body:Translate:Timeout": "Tərcüməçidən cavab gəlmədi.",
     "Message:Body:Translate:Unknown": "Avtomatik tərcümə xətası baş verdi.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Sintaksis xətası səbəbindən \"{0}\" yadda saxlanıla bilməz."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Sintaksis xətası səbəbindən \"{0}\" yadda saxlanıla bilməz.",
+    "InterfaceStrings:CheckKeysTooltip": "Tərcümə və ya yoxlama tələb edən modları seçin",
+    "Message:Header:Check": "Yoxlama",
+    "Message:Body:CheckKeys": "Modları yeni və ya dəyişdirilmiş açarlar üçün yoxlamaq?"
 }

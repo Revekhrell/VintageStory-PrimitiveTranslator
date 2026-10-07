@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автоматтә аиҭага азура?",
     "Message:Body:Translate:Timeout": "Аиҭагаҩ аҭак ымԥаӡ.",
     "Message:Body:Translate:Unknown": "Автоматтә аиҭага агха аҭыԥ.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Иҟаӡам \"{0}\" ахьӡара синтаксис агха азы."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Иҟаӡам \"{0}\" ахьӡара синтаксис агха азы.",
+    "InterfaceStrings:CheckKeysTooltip": "Иалга модқәа, иаҭаху аиашара ма ахьӡ ҭыжьра",
+    "Message:Header:Check": "Аиашара",
+    "Message:Body:CheckKeys": "Иашатәуп модқәа ахьӡ ҿыцқәа ма иахьыҭышәҵаз азы?"
 }

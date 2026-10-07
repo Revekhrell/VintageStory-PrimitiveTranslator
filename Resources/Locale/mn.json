@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автомат орчуулга хийх үү?",
     "Message:Body:Translate:Timeout": "Орчуулагчаас хариу ирээгүй.",
     "Message:Body:Translate:Unknown": "Автомат орчуулгын алдаа гарлаа.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксийн алдаанаас болж \"{0}\"-г хадгалах боломжгүй."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксийн алдаанаас болж \"{0}\"-г хадгалах боломжгүй.",
+    "InterfaceStrings:CheckKeysTooltip": "Орчуулга эсвэл шалгалт шаардлагатай моднуудыг сонгоно уу",
+    "Message:Header:Check": "Шалгалт",
+    "Message:Body:CheckKeys": "Моднуудыг шинэ эсвэл өөрчлөгдсөн түлхүүрүүдээр шалгах уу?"
 }

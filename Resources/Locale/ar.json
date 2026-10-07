@@ -24,5 +24,8 @@
     "Message:Body:Translate": "تنفيذ الترجمة التلقائية؟",
     "Message:Body:Translate:Timeout": "لا يوجد رد من المترجم.",
     "Message:Body:Translate:Unknown": "حدث خطأ في الترجمة التلقائية.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "لا يمكن حفظ \"{0}\" بسبب خطأ في بناء الجملة."
+    "Message:Body:Error:Save:JsonSyntaxTab": "لا يمكن حفظ \"{0}\" بسبب خطأ في بناء الجملة.",
+    "InterfaceStrings:CheckKeysTooltip": "حدد التعديلات التي تحتاج إلى ترجمة أو مراجعة",
+    "Message:Header:Check": "فحص",
+    "Message:Body:CheckKeys": "فحص التعديلات بحثًا عن مفاتيح جديدة أو معدلة؟"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "རང་འགུལ་བསྒྱུར་བྱེད་དགོས་སམ?",
     "Message:Body:Translate:Timeout": "འགྱུར་སྒྱུར་ནས་ལན་མ་ཐོབ།",
     "Message:Body:Translate:Unknown": "རང་འགུལ་བསྒྱུར་ནོར་འཁྲུལ་བྱུང་།",
-    "Message:Body:Error:Save:JsonSyntaxTab": "བརྗོད་སྒྲིག་ནོར་འཁྲུལ་གྱི་རྐྱེན་གྱིས་\"{0}\"ཉར་ཚགས་བྱེད་མི་ཐུབ།"
+    "Message:Body:Error:Save:JsonSyntaxTab": "བརྗོད་སྒྲིག་ནོར་འཁྲུལ་གྱི་རྐྱེན་གྱིས་\"{0}\"ཉར་ཚགས་བྱེད་མི་ཐུབ།",
+    "InterfaceStrings:CheckKeysTooltip": "བསྒྱུར་བ་དང་ཞིབ་བཤེར་དགོས་པའི་མོ་ཌ་འདེམས་རོགས",
+    "Message:Header:Check": "ཞིབ་བཤེར",
+    "Message:Body:CheckKeys": "མོ་ཌ་རྣམས་ལ་ལྡེ་ཚད་གསར་པ་དང་བསྒྱུར་བ་ཡོད་མེད་བཤེར་དགོས་སམ?"
 }

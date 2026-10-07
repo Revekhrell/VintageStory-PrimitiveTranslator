@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Wykonać automatyczne tłumaczenie?",
     "Message:Body:Translate:Timeout": "Brak odpowiedzi od tłumacza.",
     "Message:Body:Translate:Unknown": "Wystąpił błąd automatycznego tłumaczenia.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Nie można zapisać \"{0}\" z powodu błędu składni."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Nie można zapisać \"{0}\" z powodu błędu składni.",
+    "InterfaceStrings:CheckKeysTooltip": "Wybierz mody wymagające tłumaczenia lub sprawdzenia",
+    "Message:Header:Check": "Sprawdź",
+    "Message:Body:CheckKeys": "Sprawdzić mody pod kątem nowych lub zmienionych kluczy?"
 }

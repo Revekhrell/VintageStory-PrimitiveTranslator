@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Да се изврши автоматско преведување?",
     "Message:Body:Translate:Timeout": "Нема одговор од преведувачот.",
     "Message:Body:Translate:Unknown": "Настана грешка при автоматското преведување.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Не може да се зачува \"{0}\" поради синтаксичка грешка."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Не може да се зачува \"{0}\" поради синтаксичка грешка.",
+    "InterfaceStrings:CheckKeysTooltip": "Изберете модови на кои им е потребен превод или проверка",
+    "Message:Header:Check": "Проверка",
+    "Message:Body:CheckKeys": "Да се проверат модовите за нови или изменети клучеви?"
 }

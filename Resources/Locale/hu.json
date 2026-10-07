@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Végrehajtja az automatikus fordítást?",
     "Message:Body:Translate:Timeout": "Nem érkezett válasz a fordítótól.",
     "Message:Body:Translate:Unknown": "Hiba történt az automatikus fordítás során.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "A(z) \"{0}\" nem menthető szintaktikai hiba miatt."
+    "Message:Body:Error:Save:JsonSyntaxTab": "A(z) \"{0}\" nem menthető szintaktikai hiba miatt.",
+    "InterfaceStrings:CheckKeysTooltip": "Válassza ki a fordítást vagy ellenőrzést igénylő modokat",
+    "Message:Header:Check": "Ellenőrzés",
+    "Message:Body:CheckKeys": "Ellenőrizzük a modokat új vagy módosított kulcsokra?"
 }

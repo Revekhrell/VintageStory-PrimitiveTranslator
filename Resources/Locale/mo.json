@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Efectuează traducerea automată?",
     "Message:Body:Translate:Timeout": "Nu a venit niciun răspuns de la traducător.",
     "Message:Body:Translate:Unknown": "A apărut o eroare de traducere automată.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Nu se poate salva \"{0}\" din cauza unei erori de sintaxă."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Nu se poate salva \"{0}\" din cauza unei erori de sintaxă.",
+    "InterfaceStrings:CheckKeysTooltip": "Selectați modurile care necesită traducere sau verificare",
+    "Message:Header:Check": "Verificare",
+    "Message:Body:CheckKeys": "Verificați modurile pentru chei noi sau modificate?"
 }

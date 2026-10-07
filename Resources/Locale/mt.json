@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Esegwi traduzzjoni awtomatika?",
     "Message:Body:Translate:Timeout": "L-ebda risposta mit-traduttur.",
     "Message:Body:Translate:Unknown": "Seħħ żball fit-traduzzjoni awtomatika.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Ma jistax issejvja \"{0}\" minħabba żball fis-sintassi."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Ma jistax issejvja \"{0}\" minħabba żball fis-sintassi.",
+    "InterfaceStrings:CheckKeysTooltip": "Agħżel mods li jeħtieġu traduzzjoni jew reviżjoni",
+    "Message:Header:Check": "Verifika",
+    "Message:Body:CheckKeys": "Tivverifika l-mods għal keys ġodda jew modifikati?"
 }

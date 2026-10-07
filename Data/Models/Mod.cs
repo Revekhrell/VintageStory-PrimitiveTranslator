@@ -146,6 +146,15 @@ namespace PrimitiveTranslator.Data.Models
         }
 
         /// <summary>
+        ///     Флаг наличия изменений в ключах.
+        /// </summary>
+        public bool HasKeysChanges
+        {
+            get => field;
+            set => SetProperty(ref field, value);
+        }
+
+        /// <summary>
         ///     Инициализирует новый экземпляр мода.
         /// </summary>
         private Mod()

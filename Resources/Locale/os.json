@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автомат тæлмац кæнын?",
     "Message:Body:Translate:Timeout": "Тæлмацгæнæгæй дзуапп не 'рцыд.",
     "Message:Body:Translate:Unknown": "Автомат тæлмацы рæдыд рауад.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксисы рæдыды тыххæй «{0}» фидар кæнын нæ бон."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксисы рæдыды тыххæй «{0}» фидар кæнын нæ бон.",
+    "InterfaceStrings:CheckKeysTooltip": "Равзар модтæ, кæцытæ хъæуы тæлмац кæнæ бæрæггæнæн",
+    "Message:Header:Check": "Бæрæггæнæн",
+    "Message:Body:CheckKeys": "Модты бæрæггæнæн ног кæнæ ивгъуыд дæлдзæгъдтæ?"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Izvedem samodejni prevod?",
     "Message:Body:Translate:Timeout": "Ni odgovora od prevajalnika.",
     "Message:Body:Translate:Unknown": "Prišlo je do napake pri samodejnem prevajanju.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Ni mogoče shraniti \"{0}\" zaradi sintaktične napake."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Ni mogoče shraniti \"{0}\" zaradi sintaktične napake.",
+    "InterfaceStrings:CheckKeysTooltip": "Izberite mode, ki potrebujejo prevod ali pregled",
+    "Message:Header:Check": "Preveri",
+    "Message:Body:CheckKeys": "Preveriti mode za nove ali spremenjene ključe?"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Otomatik çeviri yapılsın mı?",
     "Message:Body:Translate:Timeout": "Çevirmenden yanıt gelmedi.",
     "Message:Body:Translate:Unknown": "Otomatik çeviri hatası oluştu.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Sözdizimi hatası nedeniyle \"{0}\" kaydedilemiyor."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Sözdizimi hatası nedeniyle \"{0}\" kaydedilemiyor.",
+    "InterfaceStrings:CheckKeysTooltip": "Çeviri veya inceleme gerektiren modları seçin",
+    "Message:Header:Check": "Kontrol",
+    "Message:Body:CheckKeys": "Modlar yeni veya değiştirilmiş anahtarlar için kontrol edilsin mi?"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Automatische Übersetzung durchführen?",
     "Message:Body:Translate:Timeout": "Keine Antwort vom Übersetzer.",
     "Message:Body:Translate:Unknown": "Ein automatischer Übersetzungsfehler ist aufgetreten.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "\"{0}\" kann aufgrund eines Syntaxfehlers nicht gespeichert werden."
+    "Message:Body:Error:Save:JsonSyntaxTab": "\"{0}\" kann aufgrund eines Syntaxfehlers nicht gespeichert werden.",
+    "InterfaceStrings:CheckKeysTooltip": "Wähle Mods aus, die Übersetzung oder Überprüfung benötigen",
+    "Message:Header:Check": "Prüfen",
+    "Message:Body:CheckKeys": "Mods auf neue oder geänderte Schlüssel prüfen?"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "ترجمه خودکار انجام شود؟",
     "Message:Body:Translate:Timeout": "پاسخی از مترجم دریافت نشد.",
     "Message:Body:Translate:Unknown": "خطایی در ترجمه خودکار رخ داد.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "به دلیل خطای نحوی، \"{0}\" ذخیره نمی‌شود."
+    "Message:Body:Error:Save:JsonSyntaxTab": "به دلیل خطای نحوی، \"{0}\" ذخیره نمی‌شود.",
+    "InterfaceStrings:CheckKeysTooltip": "مودهای نیازمند ترجمه یا بررسی را انتخاب کنید",
+    "Message:Header:Check": "بررسی",
+    "Message:Body:CheckKeys": "بررسی مودها برای کلیدهای جدید یا تغییر یافته؟"
 }

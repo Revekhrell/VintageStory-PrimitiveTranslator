@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Тарҷумаи автоматикӣ иҷро шавад?",
     "Message:Body:Translate:Timeout": "Аз тарҷумон ҷавоб наомад.",
     "Message:Body:Translate:Unknown": "Хатои тарҷумаи автоматикӣ рух дод.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Аз сабаби хатои синтаксис \"{0}\" захира карда намешавад."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Аз сабаби хатои синтаксис \"{0}\" захира карда намешавад.",
+    "InterfaceStrings:CheckKeysTooltip": "Модҳоеро интихоб кунед, ки тарҷума ё санҷиш талаб мекунанд",
+    "Message:Header:Check": "Санҷиш",
+    "Message:Body:CheckKeys": "Модҳоро барои калидҳои нав ё тағйирёфта санҷидан?"
 }

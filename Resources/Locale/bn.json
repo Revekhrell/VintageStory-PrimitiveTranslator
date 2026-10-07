@@ -24,5 +24,8 @@
     "Message:Body:Translate": "স্বয়ংক্রিয় অনুবাদ করবেন?",
     "Message:Body:Translate:Timeout": "অনুবাদকের কাছ থেকে কোনো সাড়া আসেনি।",
     "Message:Body:Translate:Unknown": "একটি স্বয়ংক্রিয় অনুবাদ ত্রুটি ঘটেছে।",
-    "Message:Body:Error:Save:JsonSyntaxTab": "সিনট্যাক্স ত্রুটির কারণে \"{0}\" সংরক্ষণ করা যাবে না।"
+    "Message:Body:Error:Save:JsonSyntaxTab": "সিনট্যাক্স ত্রুটির কারণে \"{0}\" সংরক্ষণ করা যাবে না।",
+    "InterfaceStrings:CheckKeysTooltip": "অনুবাদ বা পর্যালোচনা প্রয়োজন এমন মড নির্বাচন করুন",
+    "Message:Header:Check": "যাচাই",
+    "Message:Body:CheckKeys": "নতুন বা পরিবর্তিত কী-এর জন্য মড যাচাই করবেন?"
 }

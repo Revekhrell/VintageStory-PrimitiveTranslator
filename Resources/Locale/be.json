@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Выканаць аўтаматычны пераклад?",
     "Message:Body:Translate:Timeout": "Ад перакладчыка не паступіла адказу.",
     "Message:Body:Translate:Unknown": "Узнікла памылка аўтаматычнага перакладу.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Немагчыма захаваць \"{0}\" з-за памылкі сінтаксісу."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Немагчыма захаваць \"{0}\" з-за памылкі сінтаксісу.",
+    "InterfaceStrings:CheckKeysTooltip": "Выберыце моды, якія патрабуюць перакладу або праверкі",
+    "Message:Header:Check": "Праверка",
+    "Message:Body:CheckKeys": "Праверыць моды на новыя або змененыя ключы?"
 }

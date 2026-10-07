@@ -1,0 +1,12 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Geometry x:Key="KeyGeometry">
+        F1 M32,32z M0,0z M9.938,20.25L8.719,19C8.719,19 5.25,20.344 1.75,16.875 -1.219,13.906 0.094000000000001,9.25 2.031,7.344 4.094,5.281 8.5,4.031 11.719,7.25 14.938,10.469 13.563,14.281 13.563,14.281L22.407,23.094 22.157,27.688 17.657,27.969 17.407,25.719 15.063,25.438 14.844,23.094 12.531,22.781 12.187,20.531z M3.25,8.594C1.875,9.969 1.5,11.813 2.406,12.688 3.312,13.594 5.125,13.219 6.5,11.844 7.875,10.469 8.281,8.625 7.375,7.75 6.5,6.844 4.625,7.219 3.25,8.594z M21.344,24.844L21.407,23.531 13.001,15.125 12.313,15.813z
+    </Geometry>
+    
+    <DrawingGroup x:Key="KeyDrawingGroup" ClipGeometry="M0,0 V32 H32 V0 H0 Z">
+        <GeometryDrawing Brush="{StaticResource ForegroundDefault}" Geometry="{StaticResource KeyGeometry}"/>
+    </DrawingGroup>
+    
+    <DrawingImage x:Key="KeyDrawingImage" Drawing="{StaticResource KeyDrawingGroup}"/>
+</ResourceDictionary>

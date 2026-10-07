@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Samee turjumaad otomaatig ah?",
     "Message:Body:Translate:Timeout": "Jawaab kama iman turjumaadaha.",
     "Message:Body:Translate:Unknown": "Khalad turjumaad otomaatig ah ayaa dhacay.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Lama kaydin karo \"{0}\" sababtoo ah khalad syntax."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Lama kaydin karo \"{0}\" sababtoo ah khalad syntax.",
+    "InterfaceStrings:CheckKeysTooltip": "Dooro mods u baahan turjumaad ama dib u eegis",
+    "Message:Header:Check": "Hubi",
+    "Message:Body:CheckKeys": "Hubi mods ee furayaasha cusub ama la beddelay?"
 }

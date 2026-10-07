@@ -1,11 +1,16 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     
     <PropertyGroup>
+        <UseWPF>true</UseWPF>
         <OutputType>WinExe</OutputType>
         <TargetFramework>net10.0-windows</TargetFramework>
         <ApplicationIcon>Icons\Application\Icon.ico</ApplicationIcon>
-        <Version>1.0.0</Version>
-        <UseWPF>true</UseWPF>
+        <Version>1.0.1</Version>
+        <FileVersion>$(Version)</FileVersion>
+        <AssemblyVersion>$(Version)</AssemblyVersion>
+        <InformationalVersion>$(Version)</InformationalVersion>
+        <Copyright>Copyright © 2026 Revekhrell</Copyright>
+        <RepositoryUrl>https://github.com/Revekhrell/VintageStory-PrimitiveTranslator</RepositoryUrl>
     </PropertyGroup>
     
     <ItemGroup>
@@ -27,7 +32,6 @@
       <None Remove="Resources\Locale\de.json"/>
       <None Remove="Resources\Locale\dv.json"/>
       <None Remove="Resources\Locale\el.json"/>
-      <None Remove="Resources\Locale\en.json"/>
       <None Remove="Resources\Locale\es.json"/>
       <None Remove="Resources\Locale\et.json"/>
       <None Remove="Resources\Locale\fa.json"/>
@@ -113,7 +117,7 @@
       <EmbeddedResource Include="Resources\Locale\de.json"/>
       <EmbeddedResource Include="Resources\Locale\dv.json"/>
       <EmbeddedResource Include="Resources\Locale\el.json"/>
-      <EmbeddedResource Include="Resources\Locale\en.json"/>
+      <EmbeddedResource Include="Resources\Locale\.json"/>
       <EmbeddedResource Include="Resources\Locale\es.json"/>
       <EmbeddedResource Include="Resources\Locale\et.json"/>
       <EmbeddedResource Include="Resources\Locale\fa.json"/>

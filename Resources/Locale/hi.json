@@ -24,5 +24,8 @@
     "Message:Body:Translate": "स्वचालित अनुवाद करें?",
     "Message:Body:Translate:Timeout": "अनुवादक से कोई प्रतिक्रिया नहीं आई।",
     "Message:Body:Translate:Unknown": "स्वचालित अनुवाद में त्रुटि हुई।",
-    "Message:Body:Error:Save:JsonSyntaxTab": "वाक्यविन्यास त्रुटि के कारण \"{0}\" सहेजा नहीं जा सकता।"
+    "Message:Body:Error:Save:JsonSyntaxTab": "वाक्यविन्यास त्रुटि के कारण \"{0}\" सहेजा नहीं जा सकता।",
+    "InterfaceStrings:CheckKeysTooltip": "अनुवाद या समीक्षा की आवश्यकता वाले मॉड चुनें",
+    "Message:Header:Check": "जाँच",
+    "Message:Body:CheckKeys": "नई या संशोधित कुंजियों के लिए मॉड जाँचें?"
 }

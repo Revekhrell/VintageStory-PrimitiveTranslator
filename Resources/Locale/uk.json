@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Виконати автоматичний переклад?",
     "Message:Body:Translate:Timeout": "Від перекладача не надійшло відповіді.",
     "Message:Body:Translate:Unknown": "Виникла помилка автоматичного перекладу.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Неможливо зберегти \"{0}\" через помилку синтаксису."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Неможливо зберегти \"{0}\" через помилку синтаксису.",
+    "InterfaceStrings:CheckKeysTooltip": "Виберіть моди, які потребують перекладу або перевірки",
+    "Message:Header:Check": "Перевірка",
+    "Message:Body:CheckKeys": "Перевірити моди на нові або змінені ключі?"
 }

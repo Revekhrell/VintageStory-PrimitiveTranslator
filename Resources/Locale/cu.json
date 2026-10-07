@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Сътворити самодѣльнъ прѣлогъ?",
     "Message:Body:Translate:Timeout": "Отъ прѣложителꙗ отвѣта нѣстъ.",
     "Message:Body:Translate:Unknown": "Блѧдь самодѣльна прѣлога бꙑстъ.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Не могѫ съхранити \"{0}\" блѧди словесъ ради."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Не могѫ съхранити \"{0}\" блѧди словесъ ради.",
+    "InterfaceStrings:CheckKeysTooltip": "Изберите моды, требѹющыѧ прѣложениѧ или провѣрки",
+    "Message:Header:Check": "Провѣрка",
+    "Message:Body:CheckKeys": "Провѣрити моды на новыѧ или измѣнєныѧ ключи?"
 }

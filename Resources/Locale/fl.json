@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Magsagawa ng awtomatikong pagsasalin?",
     "Message:Body:Translate:Timeout": "Walang tugon mula sa tagasalin.",
     "Message:Body:Translate:Unknown": "May naganap na error sa awtomatikong pagsasalin.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Hindi ma-save ang \"{0}\" dahil sa error sa syntax."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Hindi ma-save ang \"{0}\" dahil sa error sa syntax.",
+    "InterfaceStrings:CheckKeysTooltip": "Pumili ng mga mod na nangangailangan ng pagsasalin o pagsusuri",
+    "Message:Header:Check": "Suriin",
+    "Message:Body:CheckKeys": "Suriin ang mga mod para sa bago o binagong mga key?"
 }

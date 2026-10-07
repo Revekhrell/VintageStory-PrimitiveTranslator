@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Կատարե՞լ ավտոմատ թարգմանություն։",
     "Message:Body:Translate:Timeout": "Թարգմանչից պատասխան չստացվեց։",
     "Message:Body:Translate:Unknown": "Ավտոմատ թարգմանության սխալ տեղի ունեցավ։",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Հնարավոր չէ պահպանել «{0}»-ը շարահյուսական սխալի պատճառով։"
+    "Message:Body:Error:Save:JsonSyntaxTab": "Հնարավոր չէ պահպանել «{0}»-ը շարահյուսական սխալի պատճառով։",
+    "InterfaceStrings:CheckKeysTooltip": "Ընտրեք մոդեր, որոնք պահանջում են թարգմանություն կամ ստուգում",
+    "Message:Header:Check": "Ստուգում",
+    "Message:Body:CheckKeys": "Ստուգե՞լ մոդերը նոր կամ փոփոխված բանալիների համար։"
 }

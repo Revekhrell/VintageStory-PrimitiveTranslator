@@ -79,6 +79,13 @@ namespace PrimitiveTranslator.Views
             get => field ??= GetString();
         }
         /// <summary>
+        ///     Подсказка кнопки проверки ключей.
+        /// </summary>
+        public string CheckKeysTooltip
+        {
+            get => field ??= GetString();
+        }
+        /// <summary>
         ///     Подсказка кнопки удаления модов.
         /// </summary>
         public string DeleteTooltip

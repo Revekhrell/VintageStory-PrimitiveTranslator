@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Ger sjálvvirkandi týðing?",
     "Message:Body:Translate:Timeout": "Einki svar frá týðaranum.",
     "Message:Body:Translate:Unknown": "Villa í sjálvvirkandi týðing kom fyri.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Kann ikki goyma \"{0}\" vegna syntaksvillu."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Kann ikki goyma \"{0}\" vegna syntaksvillu.",
+    "InterfaceStrings:CheckKeysTooltip": "Vel mods, sum tørva týðing ella eftirlit",
+    "Message:Header:Check": "Eftirlit",
+    "Message:Body:CheckKeys": "Eftirlit mods fyri nýggjum ella broyttum lyklum?"
 }

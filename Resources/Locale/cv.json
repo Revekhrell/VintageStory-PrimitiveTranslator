@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автомат куçару тăвас?",
     "Message:Body:Translate:Timeout": "Куçаруçăран хурав çук.",
     "Message:Body:Translate:Unknown": "Автомат куçару йăнăшĕ пулчĕ.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис йăнăшĕпе \"{0}\" упрама çук."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис йăнăшĕпе \"{0}\" упрама çук.",
+    "InterfaceStrings:CheckKeysTooltip": "Тăлмачлама е тĕрĕслеме кирлĕ модсене суйласа илĕр",
+    "Message:Header:Check": "Тĕрĕслев",
+    "Message:Body:CheckKeys": "Модсене çĕнĕ е улшăннă уççисем тĕлĕшпе тĕрĕслеме?"
 }

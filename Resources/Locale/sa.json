@@ -24,5 +24,8 @@
     "Message:Body:Translate": "स्वचालित-अनुवादं करोतु?",
     "Message:Body:Translate:Timeout": "अनुवादकात् उत्तरं न प्राप्तम्।",
     "Message:Body:Translate:Unknown": "स्वचालित-अनुवादे दोषः अभवत्।",
-    "Message:Body:Error:Save:JsonSyntaxTab": "वाक्यरचना-दोषात् \"{0}\" रक्षितुं न शक्यते।"
+    "Message:Body:Error:Save:JsonSyntaxTab": "वाक्यरचना-दोषात् \"{0}\" रक्षितुं न शक्यते।",
+    "InterfaceStrings:CheckKeysTooltip": "अनुवादं पुनरीक्षणं वा आवश्यकं मॉड् चिनुत",
+    "Message:Header:Check": "परीक्षा",
+    "Message:Body:CheckKeys": "नवीन कुञ्जिकानां संशोधितानां वा कृते मॉड् परीक्षितव्याः?"
 }

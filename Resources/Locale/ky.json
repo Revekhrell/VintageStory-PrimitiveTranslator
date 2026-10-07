@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автоматтык которууну аткаруу керекпи?",
     "Message:Body:Translate:Timeout": "Котормочудан жооп болгон жок.",
     "Message:Body:Translate:Unknown": "Автоматтык которуу катасы кетти.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис катасынан улам \"{0}\" сактоо мүмкүн эмес."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис катасынан улам \"{0}\" сактоо мүмкүн эмес.",
+    "InterfaceStrings:CheckKeysTooltip": "Которуу же текшерүү керек болгон моддорду тандаңыз",
+    "Message:Header:Check": "Текшерүү",
+    "Message:Body:CheckKeys": "Моддорду жаңы же өзгөртүлгөн ачкычтарга текшерүү керекпи?"
 }

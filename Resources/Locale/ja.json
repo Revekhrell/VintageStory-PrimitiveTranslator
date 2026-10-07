@@ -24,5 +24,8 @@
     "Message:Body:Translate": "自動翻訳を実行しますか？",
     "Message:Body:Translate:Timeout": "翻訳者からの応答がありません。",
     "Message:Body:Translate:Unknown": "自動翻訳エラーが発生しました。",
-    "Message:Body:Error:Save:JsonSyntaxTab": "構文エラーのため \"{0}\" を保存できません。"
+    "Message:Body:Error:Save:JsonSyntaxTab": "構文エラーのため \"{0}\" を保存できません。",
+    "InterfaceStrings:CheckKeysTooltip": "翻訳またはレビューが必要なMODを選択",
+    "Message:Header:Check": "確認",
+    "Message:Body:CheckKeys": "新規または変更されたキーについてMODを確認しますか？"
 }

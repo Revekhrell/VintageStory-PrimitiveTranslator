@@ -24,5 +24,8 @@
     "Message:Body:Translate": "자동 번역을 실행하시겠습니까?",
     "Message:Body:Translate:Timeout": "번역기로부터 응답이 없습니다.",
     "Message:Body:Translate:Unknown": "자동 번역 오류가 발생했습니다.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "구문 오류로 인해 \"{0}\"을(를) 저장할 수 없습니다."
+    "Message:Body:Error:Save:JsonSyntaxTab": "구문 오류로 인해 \"{0}\"을(를) 저장할 수 없습니다.",
+    "InterfaceStrings:CheckKeysTooltip": "번역 또는 검토가 필요한 모드를 선택하세요",
+    "Message:Header:Check": "확인",
+    "Message:Body:CheckKeys": "새 키 또는 수정된 키에 대해 모드를 확인하시겠습니까?"
 }

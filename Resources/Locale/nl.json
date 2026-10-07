@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Automatische vertaling uitvoeren?",
     "Message:Body:Translate:Timeout": "Geen reactie van de vertaler.",
     "Message:Body:Translate:Unknown": "Er is een automatische vertaalfout opgetreden.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Kan \"{0}\" niet opslaan vanwege een syntaxisfout."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Kan \"{0}\" niet opslaan vanwege een syntaxisfout.",
+    "InterfaceStrings:CheckKeysTooltip": "Selecteer mods die vertaling of beoordeling nodig hebben",
+    "Message:Header:Check": "Controleren",
+    "Message:Body:CheckKeys": "Mods controleren op nieuwe of gewijzigde sleutels?"
 }

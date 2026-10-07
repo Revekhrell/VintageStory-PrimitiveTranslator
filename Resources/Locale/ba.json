@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автоматик тәржемәне башҡарырғамы?",
     "Message:Body:Translate:Timeout": "Тәржемәнән яуап булманы.",
     "Message:Body:Translate:Unknown": "Автоматик тәржемә хатаһы килеп сыҡты.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис хатаһы арҡаһында \"{0}\" һаҡлап булмай."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис хатаһы арҡаһында \"{0}\" һаҡлап булмай.",
+    "InterfaceStrings:CheckKeysTooltip": "Тәржемә йәки тикшереү талап иткән модтарҙы һайлағыҙ",
+    "Message:Header:Check": "Тикшереү",
+    "Message:Body:CheckKeys": "Модтарҙы яңы йәки үҙгәртелгән асҡыстарға тикшерергә?"
 }

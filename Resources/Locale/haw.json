@@ -24,5 +24,8 @@
     "Message:Body:Translate": "E hana i ka unuhi ʻakomi?",
     "Message:Body:Translate:Timeout": "ʻAʻohe pane mai ka unuhi.",
     "Message:Body:Translate:Unknown": "Ua loaʻa kahi hapa unuhi ʻakomi.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "ʻAʻole hiki ke mālama iā \"{0}\" no kahi hapa syntax."
+    "Message:Body:Error:Save:JsonSyntaxTab": "ʻAʻole hiki ke mālama iā \"{0}\" no kahi hapa syntax.",
+    "InterfaceStrings:CheckKeysTooltip": "E koho i nā mods e pono ana i ka unuhi ʻana a i ʻole ka loiloi",
+    "Message:Header:Check": "Hōʻoia",
+    "Message:Body:CheckKeys": "E hōʻoia i nā mods no nā kī hou a i hoʻololi ʻia?"
 }

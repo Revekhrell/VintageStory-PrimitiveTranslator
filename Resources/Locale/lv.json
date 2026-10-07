@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Veikt automātisko tulkošanu?",
     "Message:Body:Translate:Timeout": "Nav atbildes no tulkotāja.",
     "Message:Body:Translate:Unknown": "Radās automātiskās tulkošanas kļūda.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Nevar saglabāt \"{0}\" sintakses kļūdas dēļ."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Nevar saglabāt \"{0}\" sintakses kļūdas dēļ.",
+    "InterfaceStrings:CheckKeysTooltip": "Atlasiet modus, kuriem nepieciešams tulkojums vai pārskatīšana",
+    "Message:Header:Check": "Pārbaude",
+    "Message:Body:CheckKeys": "Pārbaudīt modus attiecībā uz jaunām vai mainītām atslēgām?"
 }

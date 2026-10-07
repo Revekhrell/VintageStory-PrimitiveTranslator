@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Sala mbalula ya kiyeka?",
     "Message:Body:Translate:Timeout": "Mubaludi me pesa ve mvutu.",
     "Message:Body:Translate:Unknown": "Fita ya mbalula ya kiyeka me basika.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Lenda bumba ve \"{0}\" sambu na fita ya sintaksi."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Lenda bumba ve \"{0}\" sambu na fita ya sintaksi.",
+    "InterfaceStrings:CheckKeysTooltip": "Pona mods yina ke vanda mbote na kumonisa to kusungika",
+    "Message:Header:Check": "Kusungika",
+    "Message:Body:CheckKeys": "Kusungika mods sambu na bafyoti ya mpa to ya kusoba?"
 }

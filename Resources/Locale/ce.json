@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автоматически гочдар дан?",
     "Message:Body:Translate:Timeout": "Гочдархочо жоп ца делла.",
     "Message:Body:Translate:Unknown": "Автоматически гочдарехь гӀалат хилла.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксисан гӀалатах «{0}» Ӏалашъян ца ло."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксисан гӀалатах «{0}» Ӏалашъян ца ло.",
+    "InterfaceStrings:CheckKeysTooltip": "Харжа модаш, гочдан йа таллам бан дезаш долу",
+    "Message:Header:Check": "Таллам",
+    "Message:Body:CheckKeys": "Модаш керла йа хийцина догӀашна таллам бан?"
 }

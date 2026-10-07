@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Suoritetaanko automaattinen käännös?",
     "Message:Body:Translate:Timeout": "Kääntäjältä ei tullut vastausta.",
     "Message:Body:Translate:Unknown": "Automaattisessa käännöksessä tapahtui virhe.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "\"{0}\" ei voi tallentaa syntaksivirheen vuoksi."
+    "Message:Body:Error:Save:JsonSyntaxTab": "\"{0}\" ei voi tallentaa syntaksivirheen vuoksi.",
+    "InterfaceStrings:CheckKeysTooltip": "Valitse modit, jotka vaativat käännöksen tai tarkistuksen",
+    "Message:Header:Check": "Tarkistus",
+    "Message:Body:CheckKeys": "Tarkista modit uusien tai muutettujen avainten varalta?"
 }

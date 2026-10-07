@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автоматик тәрҗемә башкарырга?",
     "Message:Body:Translate:Timeout": "Тәрҗемәчедән җавап булмады.",
     "Message:Body:Translate:Unknown": "Автоматик тәрҗемә хатасы килеп чыкты.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис хатасы аркасында \"{0}\" саклап булмый."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис хатасы аркасында \"{0}\" саклап булмый.",
+    "InterfaceStrings:CheckKeysTooltip": "Тәрҗемә яки тикшерү таләп иткән модларны сайлагыз",
+    "Message:Header:Check": "Тикшерү",
+    "Message:Body:CheckKeys": "Модларны яңа яки үзгәртелгән ачкычларга тикшерергә?"
 }

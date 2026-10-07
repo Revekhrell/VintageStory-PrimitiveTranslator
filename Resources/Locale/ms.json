@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Laksanakan terjemahan automatik?",
     "Message:Body:Translate:Timeout": "Tiada respons daripada penterjemah.",
     "Message:Body:Translate:Unknown": "Ralat terjemahan automatik berlaku.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Tidak dapat menyimpan \"{0}\" kerana ralat sintaksis."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Tidak dapat menyimpan \"{0}\" kerana ralat sintaksis.",
+    "InterfaceStrings:CheckKeysTooltip": "Pilih mod yang memerlukan terjemahan atau semakan",
+    "Message:Header:Check": "Semak",
+    "Message:Body:CheckKeys": "Semak mod untuk kunci baharu atau diubah suai?"
 }

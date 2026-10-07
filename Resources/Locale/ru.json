@@ -9,8 +9,10 @@
     "InterfaceStrings:ReloadModsTooltip": "Перечитать моды",
     "InterfaceStrings:ExportTooltip": "Экспортировать переводчик",
     "InterfaceStrings:TranslateTooltip": "Перевести текущую вкладку",
+    "InterfaceStrings:CheckKeysTooltip": "Выделить моды, требующие перевода или проверки",
     "InterfaceStrings:DeleteTooltip": "Удалить выделенные моды",
 
+    "Message:Header:Check": "Проверка",
     "Message:Header:Delete": "Удаление",
     "Message:Header:Export": "Экспорт",
     "Message:Header:Error": "Ошибка",
@@ -18,6 +20,7 @@
     "Message:Header:Save": "Сохранение",
     "Message:Header:Translate": "Перевод",
 
+    "Message:Body:CheckKeys": "Проверить моды на новые или модифицированные ключи?",
     "Message:Body:Delete": "Удалить выбранные моды?",
     "Message:Body:Export": "Выполнить экспорт мода?",
     "Message:Body:Load": "Выполнить загрузку модов?",

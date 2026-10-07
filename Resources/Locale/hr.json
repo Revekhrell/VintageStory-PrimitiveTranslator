@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Izvršiti automatsko prevođenje?",
     "Message:Body:Translate:Timeout": "Nema odgovora od prevoditelja.",
     "Message:Body:Translate:Unknown": "Došlo je do greške pri automatskom prevođenju.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Nije moguće spremiti \"{0}\" zbog sintaksne greške."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Nije moguće spremiti \"{0}\" zbog sintaksne greške.",
+    "InterfaceStrings:CheckKeysTooltip": "Odaberite modove koji zahtijevaju prijevod ili provjeru",
+    "Message:Header:Check": "Provjera",
+    "Message:Body:CheckKeys": "Provjeriti modove na nove ili izmijenjene ključeve?"
 }

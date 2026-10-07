@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Exécuter la traduction automatique ?",
     "Message:Body:Translate:Timeout": "Aucune réponse du traducteur.",
     "Message:Body:Translate:Unknown": "Une erreur de traduction automatique s'est produite.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Impossible d'enregistrer \"{0}\" en raison d'une erreur de syntaxe."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Impossible d'enregistrer \"{0}\" en raison d'une erreur de syntaxe.",
+    "InterfaceStrings:CheckKeysTooltip": "Sélectionnez les mods nécessitant une traduction ou une révision",
+    "Message:Header:Check": "Vérifier",
+    "Message:Body:CheckKeys": "Vérifier les mods pour de nouvelles clés ou des clés modifiées ?"
 }

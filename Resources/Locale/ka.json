@@ -24,5 +24,8 @@
     "Message:Body:Translate": "შესრულდეს ავტომატური თარგმნა?",
     "Message:Body:Translate:Timeout": "მთარგმნელისგან პასუხი არ მოვიდა.",
     "Message:Body:Translate:Unknown": "მოხდა ავტომატური თარგმნის შეცდომა.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "შეუძლებელია \"{0}\"-ის შენახვა სინტაქსური შეცდომის გამო."
+    "Message:Body:Error:Save:JsonSyntaxTab": "შეუძლებელია \"{0}\"-ის შენახვა სინტაქსური შეცდომის გამო.",
+    "InterfaceStrings:CheckKeysTooltip": "აირჩიეთ მოდები, რომლებსაც სჭირდებათ თარგმანი ან გადამოწმება",
+    "Message:Header:Check": "შემოწმება",
+    "Message:Body:CheckKeys": "შევამოწმოთ მოდები ახალი ან შეცვლილი გასაღებებისთვის?"
 }

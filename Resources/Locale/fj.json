@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Cakava na vakadewataki livaliva?",
     "Message:Body:Translate:Timeout": "Sega na isau mai na vakadewataki.",
     "Message:Body:Translate:Unknown": "E yaco na calaka ni vakadewataki livaliva.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Sega ni rawa ni maroroi \"{0}\" baleta na calaka ni syntax."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Sega ni rawa ni maroroi \"{0}\" baleta na calaka ni syntax.",
+    "InterfaceStrings:CheckKeysTooltip": "Digitaka na mods era e gadrevi me vakadewataki se vakadidiketaki",
+    "Message:Header:Check": "Vakadidike",
+    "Message:Body:CheckKeys": "Vakadidike na mods me kena ni ki vou se veisautaki?"
 }

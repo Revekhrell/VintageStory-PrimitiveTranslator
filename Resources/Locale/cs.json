@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Provést automatický překlad?",
     "Message:Body:Translate:Timeout": "Žádná odpověď od překladatele.",
     "Message:Body:Translate:Unknown": "Došlo k chybě automatického překladu.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Nelze uložit \"{0}\" kvůli syntaktické chybě."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Nelze uložit \"{0}\" kvůli syntaktické chybě.",
+    "InterfaceStrings:CheckKeysTooltip": "Vyberte mody, které vyžadují překlad nebo kontrolu",
+    "Message:Header:Check": "Kontrola",
+    "Message:Body:CheckKeys": "Zkontrolovat mody na nové nebo změněné klíče?"
 }

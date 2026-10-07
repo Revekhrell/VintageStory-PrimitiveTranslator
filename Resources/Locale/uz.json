@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Avtomatik tarjima amalga oshirilsinmi?",
     "Message:Body:Translate:Timeout": "Tarjimondan javob kelmadi.",
     "Message:Body:Translate:Unknown": "Avtomatik tarjima xatosi yuz berdi.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Sintaksis xatosi sababli \"{0}\" saqlanmaydi."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Sintaksis xatosi sababli \"{0}\" saqlanmaydi.",
+    "InterfaceStrings:CheckKeysTooltip": "Tarjima yoki tekshirishni talab qiladigan modlarni tanlang",
+    "Message:Header:Check": "Tekshirish",
+    "Message:Body:CheckKeys": "Modlarni yangi yoki o'zgartirilgan kalitlar uchun tekshirish?"
 }

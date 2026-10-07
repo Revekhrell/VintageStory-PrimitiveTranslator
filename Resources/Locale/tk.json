@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Awtomatik terjime edilsinmi?",
     "Message:Body:Translate:Timeout": "Terjimeçiden jogap gelmedi.",
     "Message:Body:Translate:Unknown": "Awtomatik terjime ýalňyşlygy ýüze çykdy.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Sintaksis ýalňyşlygy sebäpli \"{0}\" ýazdyryp bolmaýar."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Sintaksis ýalňyşlygy sebäpli \"{0}\" ýazdyryp bolmaýar.",
+    "InterfaceStrings:CheckKeysTooltip": "Terjime ýa-da barlag talap edýän modlary saýlaň",
+    "Message:Header:Check": "Barlag",
+    "Message:Body:CheckKeys": "Modlary täze ýa-da üýtgedilen açarlar üçin barlamalymy?"
 }

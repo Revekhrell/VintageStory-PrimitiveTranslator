@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Εκτέλεση αυτόματης μετάφρασης;",
     "Message:Body:Translate:Timeout": "Δεν υπήρξε απάντηση από τον μεταφραστή.",
     "Message:Body:Translate:Unknown": "Παρουσιάστηκε σφάλμα αυτόματης μετάφρασης.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Αδυναμία αποθήκευσης του \"{0}\" λόγω συντακτικού σφάλματος."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Αδυναμία αποθήκευσης του \"{0}\" λόγω συντακτικού σφάλματος.",
+    "InterfaceStrings:CheckKeysTooltip": "Επιλέξτε mods που χρειάζονται μετάφραση ή έλεγχο",
+    "Message:Header:Check": "Έλεγχος",
+    "Message:Body:CheckKeys": "Έλεγχος των mods για νέα ή τροποποιημένα κλειδιά;"
 }

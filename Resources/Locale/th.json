@@ -24,5 +24,8 @@
     "Message:Body:Translate": "ดำเนินการแปลอัตโนมัติหรือไม่?",
     "Message:Body:Translate:Timeout": "ไม่มีการตอบกลับจากนักแปล",
     "Message:Body:Translate:Unknown": "เกิดข้อผิดพลาดในการแปลอัตโนมัติ",
-    "Message:Body:Error:Save:JsonSyntaxTab": "ไม่สามารถบันทึก \"{0}\" เนื่องจากข้อผิดพลาดทางไวยากรณ์"
+    "Message:Body:Error:Save:JsonSyntaxTab": "ไม่สามารถบันทึก \"{0}\" เนื่องจากข้อผิดพลาดทางไวยากรณ์",
+    "InterfaceStrings:CheckKeysTooltip": "เลือกมอดที่ต้องมีการแปลหรือตรวจสอบ",
+    "Message:Header:Check": "ตรวจสอบ",
+    "Message:Body:CheckKeys": "ตรวจสอบมอดสำหรับคีย์ใหม่หรือคีย์ที่แก้ไขหรือไม่?"
 }

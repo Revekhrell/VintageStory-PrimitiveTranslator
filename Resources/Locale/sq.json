@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Të ekzekutohet përkthimi automatik?",
     "Message:Body:Translate:Timeout": "Nuk erdhi përgjigje nga përkthyesi.",
     "Message:Body:Translate:Unknown": "Ndodhi një gabim në përkthimin automatik.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Nuk mund të ruhet \"{0}\" për shkak të një gabimi sintakse."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Nuk mund të ruhet \"{0}\" për shkak të një gabimi sintakse.",
+    "InterfaceStrings:CheckKeysTooltip": "Zgjidh modat që kërkojnë përkthim ose rishikim",
+    "Message:Header:Check": "Kontrollo",
+    "Message:Body:CheckKeys": "Kontrollo modat për çelësa të rinj ose të modifikuar?"
 }

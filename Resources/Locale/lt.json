@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Atlikti automatinį vertimą?",
     "Message:Body:Translate:Timeout": "Nebuvo atsakymo iš vertėjo.",
     "Message:Body:Translate:Unknown": "Įvyko automatinio vertimo klaida.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Negalima išsaugoti \"{0}\" dėl sintaksės klaidos."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Negalima išsaugoti \"{0}\" dėl sintaksės klaidos.",
+    "InterfaceStrings:CheckKeysTooltip": "Pasirinkite modus, kuriems reikia vertimo arba peržiūros",
+    "Message:Header:Check": "Tikrinti",
+    "Message:Body:CheckKeys": "Tikrinti modus dėl naujų ar pakeistų raktų?"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Udfør automatisk oversættelse?",
     "Message:Body:Translate:Timeout": "Ingen respons fra oversætteren.",
     "Message:Body:Translate:Unknown": "Der opstod en automatisk oversættelsesfejl.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Kan ikke gemme \"{0}\" på grund af en syntaksfejl."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Kan ikke gemme \"{0}\" på grund af en syntaksfejl.",
+    "InterfaceStrings:CheckKeysTooltip": "Vælg mods, der kræver oversættelse eller gennemgang",
+    "Message:Header:Check": "Kontrol",
+    "Message:Body:CheckKeys": "Kontroller mods for nye eller ændrede nøgler?"
 }

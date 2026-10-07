@@ -1364,6 +1364,111 @@ namespace PrimitiveTranslator.Views
         }
 
         #endregion
+        #region Проверка ключей
+
+        /// <summary>
+        ///     Команда проверки ключей.
+        /// </summary>
+        public ICommand ChekKeysCommand
+        {
+            get => field ??= new DependentDelegateCommand(OnChekKeysCommandExecuted, CanChekKeysCommandExecute, this, nameof(IsFreeContext));
+        }
+        /// <summary>
+        ///     Определяет, может ли <c><see cref="ChekKeysCommand"/></c> выполняться.
+        /// </summary>
+        /// <returns>
+        ///     <c>true</c>, если команду можно выполнять, иначе – <c>false</c>.
+        /// </returns>
+        private bool CanChekKeysCommandExecute()
+        {
+            return IsFreeContext;
+        }
+        /// <summary>
+        ///     Проверяет моды на новые или модифицированные ключи.
+        /// </summary>
+        private async void OnChekKeysCommandExecuted()
+        {
+            // Диалоговое окно
+            MessageBoxResult result = MessageBox.Show(Localizer.Get("Message:Body:CheckKeys"), Localizer.Get("Message:Header:Check"), MessageBoxButton.YesNo, MessageBoxImage.Question);
+            if (result != MessageBoxResult.Yes)
+                return;
+
+            // Перевод
+            await Task.Run(CheckKeys);
+        }
+
+        /// <summary>
+        ///     Выделяет моды с новыми или модифицированными ключами.
+        /// </summary>
+        private void CheckKeys()
+        {
+            // Проверка языка
+            Language language = new Language(Language);
+            if (string.IsNullOrEmpty(Language))
+                return;
+
+            // Получение контекста
+            DataContext? context = CreateDataContext();
+            if (context is null)
+                return;
+
+            // Загрузка данных
+            SortedSet<Language> cachedLanguages = new SortedSet<Language>(context.Languages.ToArray(), Comparer<Language>.Default);
+            SortedSet<Mod> cachedMods = new SortedSet<Mod>(context.Mods.Include(x => x.Keys).ThenInclude(x => x.Values).ThenInclude(x => x.Language).Include(x => x.Languages).Include(x => x.Language).AsSplitQuery().ToArray(), Comparer<Mod>.Default);
+
+            // Проверка модов
+            foreach (Mod mod in Mods)
+            {
+                // Поиск мода
+                if (!cachedMods.TryGetValue(mod, out Mod? cachedMod))
+                    continue;
+
+                // Язык не выбран или языки совпадают
+                if (mod.Language is null || language.Equals(mod.Language))
+                    continue;
+
+                // Обновление языка
+                if (!Equals(mod.Language, cachedMod.Language))
+                {
+                    // Поиск языка
+                    if (!cachedLanguages.TryGetValue(mod.Language, out Language? cachedLanguage))
+                    {
+                        cachedLanguage = new Language(mod.Language.Name);
+                        context.Languages.Add(cachedLanguage);
+                        cachedLanguages.Add(cachedLanguage);
+                    }
+
+                    // Обновление
+                    cachedMod.Language = cachedLanguage;
+                    if (!cachedMod.Languages.Any(x => x.Equals(cachedLanguage)))
+                        cachedMod.Languages.Add(cachedLanguage);
+                }
+
+                // Проверка ключей
+                bool hasChangedKeys = false;
+                foreach (Key key in cachedMod.Keys)
+                {
+                    // Получение оригинала
+                    Value? original = key.Values.FirstOrDefault(x => x.Language?.Equals(cachedMod.Language) == true);
+                    if (original is null)
+                        continue;
+
+                    // Получение перевода
+                    Value? translated = key.Values.FirstOrDefault(x => x.Language?.Equals(language) == true);
+                    if (translated is null || original.Timestamp > translated.Timestamp)
+                    {
+                        hasChangedKeys = true;
+                        break;
+                    }
+                }
+                mod.HasKeysChanges = hasChangedKeys;
+            }
+
+            // Завершение
+            FreeDataContext();
+        }
+
+        #endregion
         #region Удаление
 
         /// <summary>

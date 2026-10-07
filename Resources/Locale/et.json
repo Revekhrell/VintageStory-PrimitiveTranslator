@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Kas teostada automaatne tõlge?",
     "Message:Body:Translate:Timeout": "Tõlkijalt ei tulnud vastust.",
     "Message:Body:Translate:Unknown": "Tekkis automaatse tõlke viga.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Ei saa salvestada \"{0}\" süntaksivea tõttu."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Ei saa salvestada \"{0}\" süntaksivea tõttu.",
+    "InterfaceStrings:CheckKeysTooltip": "Vali modid, mis vajavad tõlkimist või ülevaatamist",
+    "Message:Header:Check": "Kontroll",
+    "Message:Body:CheckKeys": "Kontrollida modisid uute või muudetud võtmete suhtes?"
 }

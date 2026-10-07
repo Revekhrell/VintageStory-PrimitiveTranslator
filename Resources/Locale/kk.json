@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автоматты аударуды орындау керек пе?",
     "Message:Body:Translate:Timeout": "Аудармашыдан жауап болмады.",
     "Message:Body:Translate:Unknown": "Автоматты аудару қатесі орын алды.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис қатесіне байланысты \"{0}\" сақтау мүмкін емес."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис қатесіне байланысты \"{0}\" сақтау мүмкін емес.",
+    "InterfaceStrings:CheckKeysTooltip": "Аудару немесе тексеруді қажет ететін модтарды таңдаңыз",
+    "Message:Header:Check": "Тексеру",
+    "Message:Body:CheckKeys": "Модтарды жаңа немесе өзгертілген кілттерге тексеру керек пе?"
 }

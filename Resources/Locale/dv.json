@@ -24,5 +24,8 @@
     "Message:Body:Translate": "އޮޓޯމެޓިކް ތަރުޖަމާކުރަންތޯ؟",
     "Message:Body:Translate:Timeout": "ތަރުޖަމާކުރާ ފަރާތުން ޖަވާބެއް ނައެވެ.",
     "Message:Body:Translate:Unknown": "އޮޓޯމެޓިކް ތަރުޖަމާގެ ކުށެއް ދިމާވެއްޖެއެވެ.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "ސިންޓެކްސް ކުށެއްގެ ސަބަބުން \"{0}\" ސޭވްކުރެވެއެއް ނުނިކުންނާނެ."
+    "Message:Body:Error:Save:JsonSyntaxTab": "ސިންޓެކްސް ކުށެއްގެ ސަބަބުން \"{0}\" ސޭވްކުރެވެއެއް ނުނިކުންނާނެ.",
+    "InterfaceStrings:CheckKeysTooltip": "ތަރުޖަމާ ނުވަތަ ބަލައިލުން ބޭނުންވާ މޮޑްތައް އިޚްތިޔާރުކުރައްވާ",
+    "Message:Header:Check": "ބަލައިލުން",
+    "Message:Body:CheckKeys": "އައު ނުވަތަ ބަދަލުވި ކީތައް މޮޑްތަކުން ބަލައިލަންތޯ?"
 }

@@ -122,38 +122,61 @@
             </GroupBox>
             
             <!--Панель кнопок-->
-            <Border Grid.Row="1" Height="25" Margin="3,2,3,3" CornerRadius="3"
-                    BorderBrush="{StaticResource BorderBrushDefault}" BorderThickness="1">
-                <StackPanel Orientation="Horizontal">
-                    <!--Перезагрузить моды-->
-                    <Button BorderThickness="1,0,1,0" Margin="-0.5,0" Command="{Binding ReloadModsCommand}"
-                            ToolTip="{Binding Strings.ReloadModsTooltip}" ToolTipService.InitialShowDelay="2000"
-                            Style="{StaticResource VerticalSquareButtonStyle}">
-                        <Image Source="{StaticResource ReloadDrawingImage}"/>
-                    </Button>
-                    
-                    <!--Экспорт переводчика-->
-                    <Button BorderThickness="1,0,1,0" Margin="10,0" Command="{Binding ExportCommand}"
-                            ToolTip="{Binding Strings.ExportTooltip}" ToolTipService.InitialShowDelay="2000"
-                            Style="{StaticResource VerticalSquareButtonStyle}">
-                        <Image Source="{StaticResource ArchivateDrawingImage}"/>
-                    </Button>
-                    
-                    <!--Автоматический перевод-->
-                    <Button BorderThickness="1,0,1,0" Margin="0,0,10,0" Command="{Binding TranslateCommand}"
-                            ToolTip="{Binding Strings.TranslateTooltip}" ToolTipService.InitialShowDelay="2000"
-                            Style="{StaticResource VerticalSquareButtonStyle}">
-                        <Image Source="{StaticResource TranslateDrawingImage}"/>
-                    </Button>
+            <Grid Grid.Row="1" Height="25" Margin="3,2,3,3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="auto"/>
+                </Grid.ColumnDefinitions>
 
-                    <!--Автоматический перевод-->
-                    <Button BorderThickness="1,0,1,0" Margin="0,0,10,0" Command="{Binding DeleteCommand}"
-                            ToolTip="{Binding Strings.DeleteTooltip}" ToolTipService.InitialShowDelay="2000"
-                            Style="{StaticResource VerticalSquareButtonStyle}">
-                        <Image Source="{StaticResource DeleteDrawingImage}"/>
-                    </Button>
-                </StackPanel>
-            </Border>
+                <Border Grid.Column="0" CornerRadius="3,0,0,3" BorderThickness="1,1,0,1"
+                        BorderBrush="{StaticResource BorderBrushDefault}">
+                    <StackPanel Orientation="Horizontal">
+                        <!--Перезагрузить моды-->
+                        <Button BorderThickness="1,0,1,0" Margin="-1,0,0,0" Command="{Binding ReloadModsCommand}"
+                                ToolTip="{Binding Strings.ReloadModsTooltip}" ToolTipService.InitialShowDelay="2000"
+                                Style="{StaticResource VerticalSquareButtonStyle}">
+                            <Image Source="{StaticResource ReloadDrawingImage}"/>
+                        </Button>
+
+                        <!--Экспорт переводчика-->
+                        <Button BorderThickness="1,0,1,0" Margin="-1,0,0,0" Command="{Binding ExportCommand}"
+                                ToolTip="{Binding Strings.ExportTooltip}" ToolTipService.InitialShowDelay="2000"
+                                Style="{StaticResource VerticalSquareButtonStyle}">
+                            <Image Source="{StaticResource ArchivateDrawingImage}"/>
+                        </Button>
+
+                        <!--Автоматический перевод-->
+                        <Button BorderThickness="1,0,1,0" Margin="-1,0,0,0" Command="{Binding TranslateCommand}"
+                                ToolTip="{Binding Strings.TranslateTooltip}" ToolTipService.InitialShowDelay="2000"
+                                Style="{StaticResource VerticalSquareButtonStyle}">
+                            <Image Source="{StaticResource TranslateDrawingImage}"/>
+                        </Button>
+
+                        <!--Проверка ключей-->
+                        <Button BorderThickness="1,0,1,0" Margin="-1,0,0,0" Command="{Binding ChekKeysCommand}"
+                                ToolTip="{Binding Strings.CheckKeysTooltip}" ToolTipService.InitialShowDelay="2000"
+                                Style="{StaticResource VerticalSquareButtonStyle}">
+                            <Image Source="{StaticResource KeyDrawingImage}">
+                                <Image.RenderTransform>
+                                    <TranslateTransform X="2.5"/>
+                                </Image.RenderTransform>
+                            </Image>
+                        </Button>
+                    </StackPanel>
+                </Border>
+
+                <Border Grid.Column="1" CornerRadius="0,3,3,0" BorderThickness="0,1,1,1"
+                        BorderBrush="{StaticResource BorderBrushDefault}">
+                    <StackPanel Orientation="Horizontal">
+                        <!--Удаление модов-->
+                        <Button BorderThickness="1,0,1,0" Margin="0,0,-1,0" Command="{Binding DeleteCommand}"
+                                ToolTip="{Binding Strings.DeleteTooltip}" ToolTipService.InitialShowDelay="2000"
+                                Style="{StaticResource VerticalSquareButtonStyle}">
+                            <Image Source="{StaticResource DeleteDrawingImage}"/>
+                        </Button>
+                    </StackPanel>
+                </Border>
+            </Grid>
             
             <!--Список модов-->
             <Border Grid.Row="2" Margin="3,0,3,3" BorderThickness="1" BorderBrush="{StaticResource BorderBrushDefault}"
@@ -178,11 +201,36 @@
                                           Style="{StaticResource ComboBoxStyle}"/>
 
                                 <!--Название и идентификатор-->
-                                <TextBlock Grid.Row="0" Grid.Column="1" FontSize="12" Text="{Binding}"
-                                           Style="{StaticResource TextBlockStyle}"/>
-                                <TextBlock Grid.Row="1" Grid.Column="1" FontSize="10" Text="{Binding UID}"
-                                           Foreground="{StaticResource BorderBrushDefault}"
-                                           Style="{StaticResource TextBlockStyle}"/>
+                                <TextBlock Grid.Row="0" Grid.Column="1" FontSize="12" Text="{Binding}">
+                                    <TextBlock.Style>
+                                        <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlockStyle}">
+                                            <Setter Property="Foreground" Value="{StaticResource ForegroundDefault}"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding HasKeysChanges}" Value="True">
+                                                    <Setter Property="Foreground" Value="Green"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding HasKeysChanges}" Value="False">
+                                                    <Setter Property="Foreground" Value="{StaticResource ForegroundDefault}"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                                <TextBlock Grid.Row="1" Grid.Column="1" FontSize="10" Text="{Binding UID}">
+                                    <TextBlock.Style>
+                                        <Style TargetType="{x:Type TextBlock}" BasedOn="{StaticResource TextBlockStyle}">
+                                            <Setter Property="Foreground" Value="{StaticResource BorderBrushDefault}"/>
+                                            <Style.Triggers>
+                                                <DataTrigger Binding="{Binding HasKeysChanges}" Value="True">
+                                                    <Setter Property="Foreground" Value="Green"/>
+                                                </DataTrigger>
+                                                <DataTrigger Binding="{Binding HasKeysChanges}" Value="False">
+                                                    <Setter Property="Foreground" Value="{StaticResource BorderBrushDefault}"/>
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
                             </Grid>
                         </DataTemplate>
                     </ListBox.ItemTemplate>

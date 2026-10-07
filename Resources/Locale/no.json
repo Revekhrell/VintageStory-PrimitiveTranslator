@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Utføre automatisk oversettelse?",
     "Message:Body:Translate:Timeout": "Ingen respons fra oversetteren.",
     "Message:Body:Translate:Unknown": "En automatisk oversettelsesfeil oppstod.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Kan ikke lagre \"{0}\" på grunn av en syntaksfeil."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Kan ikke lagre \"{0}\" på grunn av en syntaksfeil.",
+    "InterfaceStrings:CheckKeysTooltip": "Velg mods som krever oversettelse eller gjennomgang",
+    "Message:Header:Check": "Kontroller",
+    "Message:Body:CheckKeys": "Kontroller mods for nye eller endrede nøkler?"
 }

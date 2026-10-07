@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Voer outomatiese vertaling uit?",
     "Message:Body:Translate:Timeout": "Geen antwoord van die vertaler nie.",
     "Message:Body:Translate:Unknown": "'n Outomatiese vertalingsfout het voorgekom.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Kan nie \"{0}\" stoor nie weens 'n sintaksisfout."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Kan nie \"{0}\" stoor nie weens 'n sintaksisfout.",
+    "InterfaceStrings:CheckKeysTooltip": "Kies mods wat vertaling of hersiening benodig",
+    "Message:Header:Check": "Kontroleer",
+    "Message:Body:CheckKeys": "Kontroleer mods vir nuwe of gewysigde sleutels?"
 }

@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Framkvæma sjálfvirka þýðingu?",
     "Message:Body:Translate:Timeout": "Ekkert svar frá þýðandanum.",
     "Message:Body:Translate:Unknown": "Villa kom upp við sjálfvirka þýðingu.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Get ekki vistað \"{0}\" vegna setningafræðivillu."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Get ekki vistað \"{0}\" vegna setningafræðivillu.",
+    "InterfaceStrings:CheckKeysTooltip": "Veldu mods sem þurfa þýðingu eða yfirferð",
+    "Message:Header:Check": "Athuga",
+    "Message:Body:CheckKeys": "Athuga mods fyrir nýjum eða breyttum lyklum?"
 }

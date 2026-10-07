@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Realizar tradução automática?",
     "Message:Body:Translate:Timeout": "Não houve resposta do tradutor.",
     "Message:Body:Translate:Unknown": "Ocorreu um erro na tradução automática.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Não é possível salvar \"{0}\" devido a um erro de sintaxe."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Não é possível salvar \"{0}\" devido a um erro de sintaxe.",
+    "InterfaceStrings:CheckKeysTooltip": "Selecione mods que precisam de tradução ou revisão",
+    "Message:Header:Check": "Verificar",
+    "Message:Body:CheckKeys": "Verificar mods para chaves novas ou modificadas?"
 }

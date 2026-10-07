@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Umiartorineq nammineq ingerlanneqassaaq?",
     "Message:Body:Translate:Timeout": "Umiartortap akissutaanngilaq.",
     "Message:Body:Translate:Unknown": "Umiartorineq nammineq kukkunnerulerpoq.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Toqqorsinngilaq \"{0}\" syntax-kukkuneq pissutigalugu."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Toqqorsinngilaq \"{0}\" syntax-kukkuneq pissutigalugu.",
+    "InterfaceStrings:CheckKeysTooltip": "Toqqaannartumik nutserisoqartariaqartut imaluunniit misissuiffiusariaqartut modit toqqarit",
+    "Message:Header:Check": "Misissuineq",
+    "Message:Body:CheckKeys": "Modit nutaamik imaluunniit allanngortinneqarsimasumik toqqammakkamik misissuiffigineqassappata?"
 }

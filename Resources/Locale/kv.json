@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Автомат вуджӧдӧм вӧчны?",
     "Message:Body:Translate:Timeout": "Вуджӧдчысьысь вочакыв эз во.",
     "Message:Body:Translate:Unknown": "Автомат вуджӧдӧмын вошисьӧм лои.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис вошисьӧм вӧсна «{0}» видзны оз позь."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Синтаксис вошисьӧм вӧсна «{0}» видзны оз позь.",
+    "InterfaceStrings:CheckKeysTooltip": "Бӧрйы модъяс, кодъясӧн колӧ вуджӧдны либӧ видзӧдны",
+    "Message:Header:Check": "Видзӧд",
+    "Message:Body:CheckKeys": "Видзӧдны модъяссӧ выль либӧ вежӧм восьса кывъяс вылӧ?"
 }

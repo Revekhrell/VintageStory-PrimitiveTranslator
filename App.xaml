@@ -33,6 +33,7 @@
                 <!--Иконки-->
                 <ResourceDictionary Source="/Icons/Archivate.xaml"/>
                 <ResourceDictionary Source="/Icons/Delete.xaml"/>
+                <ResourceDictionary Source="/Icons/Key.xaml"/>
                 <ResourceDictionary Source="/Icons/OpenDirectory.xaml"/>
                 <ResourceDictionary Source="/Icons/Reload.xaml"/>
                 <ResourceDictionary Source="/Icons/Translate.xaml"/>

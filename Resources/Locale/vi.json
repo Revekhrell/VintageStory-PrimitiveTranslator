@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Thực hiện dịch tự động?",
     "Message:Body:Translate:Timeout": "Không có phản hồi từ trình dịch.",
     "Message:Body:Translate:Unknown": "Đã xảy ra lỗi dịch tự động.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Không thể lưu \"{0}\" do lỗi cú pháp."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Không thể lưu \"{0}\" do lỗi cú pháp.",
+    "InterfaceStrings:CheckKeysTooltip": "Chọn các mod cần dịch hoặc xem xét",
+    "Message:Header:Check": "Kiểm tra",
+    "Message:Body:CheckKeys": "Kiểm tra các mod để tìm khóa mới hoặc đã sửa đổi?"
 }

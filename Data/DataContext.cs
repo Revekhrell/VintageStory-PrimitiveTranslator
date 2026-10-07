@@ -134,6 +134,9 @@ namespace PrimitiveTranslator.Data
             // Версия
             builder.Property(x => x.RowVersion).IsRequired();
             builder.Property(x => x.RowVersion).IsConcurrencyToken().Metadata.SetValueComparer(ByteArrayComparer.Instance);
+
+            // Игнорирование
+            builder.Ignore(x => x.HasKeysChanges);
         }
         /// <summary>
         ///     Конфигурирует таблицу <c><see cref="Keys"/></c>.

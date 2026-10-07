@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Déan aistriúchán uathoibríoch?",
     "Message:Body:Translate:Timeout": "Ní bhfuarthas freagra ón aistritheoir.",
     "Message:Body:Translate:Unknown": "Tharla earráid aistriúcháin uathoibríoch.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Ní féidir \"{0}\" a shábháil de bharr earráide comhréire."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Ní féidir \"{0}\" a shábháil de bharr earráide comhréire.",
+    "InterfaceStrings:CheckKeysTooltip": "Roghnaigh mods a bhfuil aistriúchán nó athbhreithniú ag teastáil uathu",
+    "Message:Header:Check": "Seiceáil",
+    "Message:Body:CheckKeys": "Seiceáil mods le haghaidh eochracha nua nó athraithe?"
 }

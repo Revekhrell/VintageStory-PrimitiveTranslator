@@ -24,5 +24,8 @@
     "Message:Body:Translate": "执行自动翻译？",
     "Message:Body:Translate:Timeout": "翻译器没有响应。",
     "Message:Body:Translate:Unknown": "发生自动翻译错误。",
-    "Message:Body:Error:Save:JsonSyntaxTab": "由于语法错误，无法保存 \"{0}\"。"
+    "Message:Body:Error:Save:JsonSyntaxTab": "由于语法错误，无法保存 \"{0}\"。",
+    "InterfaceStrings:CheckKeysTooltip": "选择需要翻译或检查的模组",
+    "Message:Header:Check": "检查",
+    "Message:Body:CheckKeys": "检查模组是否有新增或修改的键？"
 }

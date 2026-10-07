@@ -24,5 +24,8 @@
     "Message:Body:Translate": "Automatesch Iwwersetzung ausféieren?",
     "Message:Body:Translate:Timeout": "Keng Äntwert vum Iwwersetzer.",
     "Message:Body:Translate:Unknown": "En automateschen Iwwersetzungsfehler ass opgetrueden.",
-    "Message:Body:Error:Save:JsonSyntaxTab": "Kann \"{0}\" net späicheren wéinst engem Syntaxfehler."
+    "Message:Body:Error:Save:JsonSyntaxTab": "Kann \"{0}\" net späicheren wéinst engem Syntaxfehler.",
+    "InterfaceStrings:CheckKeysTooltip": "Wiel Mods aus, déi Iwwersetzung oder Iwwerpréiwung brauchen",
+    "Message:Header:Check": "Iwwerpréiwen",
+    "Message:Body:CheckKeys": "Mods op nei oder geännert Schlësselen iwwerpréiwen?"
 }
