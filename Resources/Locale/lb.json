@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod exportéieren?",
     "Message:Body:Load": "Mods lueden?",
     "Message:Body:Save": "Ännerungen goufen net gespäichert. Späicheren?",
-    "Message:Body:SaveDictionary": "Dictionnaire \"{editor.Title}\" ass net gespäichert. Späicheren?",
+    "Message:Body:SaveDictionary": "Dictionnaire \"{0}\" ass net gespäichert. Späicheren?",
     "Message:Body:Translate": "Automatesch Iwwersetzung ausféieren?",
     "Message:Body:Translate:Timeout": "Keng Äntwert vum Iwwersetzer.",
     "Message:Body:Translate:Unknown": "En automateschen Iwwersetzungsfehler ass opgetrueden.",

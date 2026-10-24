@@ -20,7 +20,7 @@
     "Message:Body:Export": "Εκτέλεση εξαγωγής mod;",
     "Message:Body:Load": "Εκτέλεση φόρτωσης mods;",
     "Message:Body:Save": "Οι αλλαγές δεν αποθηκεύτηκαν. Αποθήκευση;",
-    "Message:Body:SaveDictionary": "Το λεξικό \"{editor.Title}\" δεν αποθηκεύτηκε. Αποθήκευση;",
+    "Message:Body:SaveDictionary": "Το λεξικό \"{0}\" δεν αποθηκεύτηκε. Αποθήκευση;",
     "Message:Body:Translate": "Εκτέλεση αυτόματης μετάφρασης;",
     "Message:Body:Translate:Timeout": "Δεν υπήρξε απάντηση από τον μεταφραστή.",
     "Message:Body:Translate:Unknown": "Παρουσιάστηκε σφάλμα αυτόματης μετάφρασης.",

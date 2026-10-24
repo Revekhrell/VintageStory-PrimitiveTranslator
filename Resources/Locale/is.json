@@ -20,7 +20,7 @@
     "Message:Body:Export": "Framkvæma útflutning mods?",
     "Message:Body:Load": "Framkvæma hleðslu mods?",
     "Message:Body:Save": "Breytingar voru ekki vistaðar. Vista?",
-    "Message:Body:SaveDictionary": "Orðabókin \"{editor.Title}\" er ekki vistuð. Vista?",
+    "Message:Body:SaveDictionary": "Orðabókin \"{0}\" er ekki vistuð. Vista?",
     "Message:Body:Translate": "Framkvæma sjálfvirka þýðingu?",
     "Message:Body:Translate:Timeout": "Ekkert svar frá þýðandanum.",
     "Message:Body:Translate:Unknown": "Villa kom upp við sjálfvirka þýðingu.",

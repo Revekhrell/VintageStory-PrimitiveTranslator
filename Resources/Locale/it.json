@@ -20,7 +20,7 @@
     "Message:Body:Export": "Eseguire l'esportazione del mod?",
     "Message:Body:Load": "Eseguire il caricamento dei mod?",
     "Message:Body:Save": "Le modifiche non sono state salvate. Salvare?",
-    "Message:Body:SaveDictionary": "Il dizionario \"{editor.Title}\" non è stato salvato. Salvare?",
+    "Message:Body:SaveDictionary": "Il dizionario \"{0}\" non è stato salvato. Salvare?",
     "Message:Body:Translate": "Eseguire la traduzione automatica?",
     "Message:Body:Translate:Timeout": "Nessuna risposta dal traduttore.",
     "Message:Body:Translate:Unknown": "Si è verificato un errore di traduzione automatica.",

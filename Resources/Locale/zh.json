@@ -20,7 +20,7 @@
     "Message:Body:Export": "执行模组导出？",
     "Message:Body:Load": "执行模组加载？",
     "Message:Body:Save": "更改未保存。是否保存？",
-    "Message:Body:SaveDictionary": "词典 \"{editor.Title}\" 未保存。是否保存？",
+    "Message:Body:SaveDictionary": "词典 \"{0}\" 未保存。是否保存？",
     "Message:Body:Translate": "执行自动翻译？",
     "Message:Body:Translate:Timeout": "翻译器没有响应。",
     "Message:Body:Translate:Unknown": "发生自动翻译错误。",

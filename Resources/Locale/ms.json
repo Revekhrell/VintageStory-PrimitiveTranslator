@@ -20,7 +20,7 @@
     "Message:Body:Export": "Laksanakan eksport mod?",
     "Message:Body:Load": "Laksanakan muat mod?",
     "Message:Body:Save": "Perubahan tidak disimpan. Simpan?",
-    "Message:Body:SaveDictionary": "Kamus \"{editor.Title}\" tidak disimpan. Simpan?",
+    "Message:Body:SaveDictionary": "Kamus \"{0}\" tidak disimpan. Simpan?",
     "Message:Body:Translate": "Laksanakan terjemahan automatik?",
     "Message:Body:Translate:Timeout": "Tiada respons daripada penterjemah.",
     "Message:Body:Translate:Unknown": "Ralat terjemahan automatik berlaku.",

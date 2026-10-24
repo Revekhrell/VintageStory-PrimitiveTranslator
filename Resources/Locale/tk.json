@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod eksport edilsinmi?",
     "Message:Body:Load": "Modlar ýüklensinmi?",
     "Message:Body:Save": "Üýtgeşmeler ýazdyrylmady. Ýazdyrylsynmy?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" sözlügi ýazdyrylmady. Ýazdyrylsynmy?",
+    "Message:Body:SaveDictionary": "\"{0}\" sözlügi ýazdyrylmady. Ýazdyrylsynmy?",
     "Message:Body:Translate": "Awtomatik terjime edilsinmi?",
     "Message:Body:Translate:Timeout": "Terjimeçiden jogap gelmedi.",
     "Message:Body:Translate:Unknown": "Awtomatik terjime ýalňyşlygy ýüze çykdy.",

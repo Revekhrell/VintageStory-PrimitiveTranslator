@@ -20,7 +20,7 @@
     "Message:Body:Export": "Útflyt mod?",
     "Message:Body:Load": "Les mods?",
     "Message:Body:Save": "Broytingar vórðu ikki goymdar. Goym?",
-    "Message:Body:SaveDictionary": "Orðabókin \"{editor.Title}\" er ikki goymd. Goym?",
+    "Message:Body:SaveDictionary": "Orðabókin \"{0}\" er ikki goymd. Goym?",
     "Message:Body:Translate": "Ger sjálvvirkandi týðing?",
     "Message:Body:Translate:Timeout": "Einki svar frá týðaranum.",
     "Message:Body:Translate:Unknown": "Villa í sjálvvirkandi týðing kom fyri.",

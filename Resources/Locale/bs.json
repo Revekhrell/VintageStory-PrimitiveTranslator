@@ -20,7 +20,7 @@
     "Message:Body:Export": "Izvršiti izvoz moda?",
     "Message:Body:Load": "Izvršiti učitavanje modova?",
     "Message:Body:Save": "Promjene nisu spremljene. Spremiti?",
-    "Message:Body:SaveDictionary": "Rječnik \"{editor.Title}\" nije spremljen. Spremiti?",
+    "Message:Body:SaveDictionary": "Rječnik \"{0}\" nije spremljen. Spremiti?",
     "Message:Body:Translate": "Izvršiti automatsko prevođenje?",
     "Message:Body:Translate:Timeout": "Nema odgovora od prevodioca.",
     "Message:Body:Translate:Unknown": "Došlo je do greške pri automatskom prevođenju.",

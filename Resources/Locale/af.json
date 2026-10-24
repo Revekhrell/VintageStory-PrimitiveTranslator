@@ -20,7 +20,7 @@
     "Message:Body:Export": "Voer mod uit?",
     "Message:Body:Load": "Laai mods?",
     "Message:Body:Save": "Veranderinge is nie gestoor nie. Stoor?",
-    "Message:Body:SaveDictionary": "Woordeboek \"{editor.Title}\" is nie gestoor nie. Stoor?",
+    "Message:Body:SaveDictionary": "Woordeboek \"{0}\" is nie gestoor nie. Stoor?",
     "Message:Body:Translate": "Voer outomatiese vertaling uit?",
     "Message:Body:Translate:Timeout": "Geen antwoord van die vertaler nie.",
     "Message:Body:Translate:Unknown": "'n Outomatiese vertalingsfout het voorgekom.",

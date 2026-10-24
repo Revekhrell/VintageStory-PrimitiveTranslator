@@ -20,7 +20,7 @@
     "Message:Body:Export": "Utføre eksport av mod?",
     "Message:Body:Load": "Utføre lasting av mods?",
     "Message:Body:Save": "Endringene ble ikke lagret. Lagre?",
-    "Message:Body:SaveDictionary": "Ordboken \"{editor.Title}\" er ikke lagret. Lagre?",
+    "Message:Body:SaveDictionary": "Ordboken \"{0}\" er ikke lagret. Lagre?",
     "Message:Body:Translate": "Utføre automatisk oversettelse?",
     "Message:Body:Translate:Timeout": "Ingen respons fra oversetteren.",
     "Message:Body:Translate:Unknown": "En automatisk oversettelsesfeil oppstod.",

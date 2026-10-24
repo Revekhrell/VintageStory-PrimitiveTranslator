@@ -20,7 +20,7 @@
     "Message:Body:Export": "Мода экспортламалла?",
     "Message:Body:Load": "Модсене тиемелле?",
     "Message:Body:Save": "Улшăнусем упранман. Упрамалла?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" сăмахсар упранман. Упрамалла?",
+    "Message:Body:SaveDictionary": "\"{0}\" сăмахсар упранман. Упрамалла?",
     "Message:Body:Translate": "Автомат куçару тăвас?",
     "Message:Body:Translate:Timeout": "Куçаруçăран хурав çук.",
     "Message:Body:Translate:Unknown": "Автомат куçару йăнăшĕ пулчĕ.",

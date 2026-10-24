@@ -20,7 +20,7 @@
     "Message:Body:Export": "མོཌ་ཕྱིར་ཚོང་བྱེད་དགོས་སམ?",
     "Message:Body:Load": "མོཌ་འཇུག་དགོས་སམ?",
     "Message:Body:Save": "འགྱུར་བ་ཉར་ཚགས་མ་བྱས། ཉར་ཚགས་བྱེད་དགོས་སམ?",
-    "Message:Body:SaveDictionary": "ཚིག་མཛོད་\"{editor.Title}\"ཉར་ཚགས་མ་བྱས། ཉར་ཚགས་བྱེད་དགོས་སམ?",
+    "Message:Body:SaveDictionary": "ཚིག་མཛོད་\"{0}\"ཉར་ཚགས་མ་བྱས། ཉར་ཚགས་བྱེད་དགོས་སམ?",
     "Message:Body:Translate": "རང་འགུལ་བསྒྱུར་བྱེད་དགོས་སམ?",
     "Message:Body:Translate:Timeout": "འགྱུར་སྒྱུར་ནས་ལན་མ་ཐོབ།",
     "Message:Body:Translate:Unknown": "རང་འགུལ་བསྒྱུར་ནོར་འཁྲུལ་བྱུང་།",

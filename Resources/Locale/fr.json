@@ -20,7 +20,7 @@
     "Message:Body:Export": "Exécuter l'exportation du mod ?",
     "Message:Body:Load": "Exécuter le chargement des mods ?",
     "Message:Body:Save": "Les modifications n'ont pas été enregistrées. Enregistrer ?",
-    "Message:Body:SaveDictionary": "Le dictionnaire \"{editor.Title}\" n'est pas enregistré. Enregistrer ?",
+    "Message:Body:SaveDictionary": "Le dictionnaire \"{0}\" n'est pas enregistré. Enregistrer ?",
     "Message:Body:Translate": "Exécuter la traduction automatique ?",
     "Message:Body:Translate:Timeout": "Aucune réponse du traducteur.",
     "Message:Body:Translate:Unknown": "Une erreur de traduction automatique s'est produite.",

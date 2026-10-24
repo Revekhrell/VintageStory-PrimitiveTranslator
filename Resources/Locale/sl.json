@@ -20,7 +20,7 @@
     "Message:Body:Export": "Izvedem izvoz moda?",
     "Message:Body:Load": "Izvedem nalaganje modov?",
     "Message:Body:Save": "Spremembe niso bile shranjene. Shranim?",
-    "Message:Body:SaveDictionary": "Slovar \"{editor.Title}\" ni shranjen. Shranim?",
+    "Message:Body:SaveDictionary": "Slovar \"{0}\" ni shranjen. Shranim?",
     "Message:Body:Translate": "Izvedem samodejni prevod?",
     "Message:Body:Translate:Timeout": "Ni odgovora od prevajalnika.",
     "Message:Body:Translate:Unknown": "Prišlo je do napake pri samodejnem prevajanju.",

@@ -20,7 +20,7 @@
     "Message:Body:Export": "Provést export modu?",
     "Message:Body:Load": "Provést načtení modů?",
     "Message:Body:Save": "Změny nebyly uloženy. Uložit?",
-    "Message:Body:SaveDictionary": "Slovník \"{editor.Title}\" není uložen. Uložit?",
+    "Message:Body:SaveDictionary": "Slovník \"{0}\" není uložen. Uložit?",
     "Message:Body:Translate": "Provést automatický překlad?",
     "Message:Body:Translate:Timeout": "Žádná odpověď od překladatele.",
     "Message:Body:Translate:Unknown": "Došlo k chybě automatického překladu.",

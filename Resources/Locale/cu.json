@@ -20,7 +20,7 @@
     "Message:Body:Export": "Сътворити исходъ мода?",
     "Message:Body:Load": "Сътворити въꙁложениѥ модъ?",
     "Message:Body:Save": "Прѣмѣнꙑ не съхраненꙑ сѫтъ. Съхранити?",
-    "Message:Body:SaveDictionary": "Словникъ \"{editor.Title}\" не съхраненъ ѥстъ. Съхранити?",
+    "Message:Body:SaveDictionary": "Словникъ \"{0}\" не съхраненъ ѥстъ. Съхранити?",
     "Message:Body:Translate": "Сътворити самодѣльнъ прѣлогъ?",
     "Message:Body:Translate:Timeout": "Отъ прѣложителꙗ отвѣта нѣстъ.",
     "Message:Body:Translate:Unknown": "Блѧдь самодѣльна прѣлога бꙑстъ.",

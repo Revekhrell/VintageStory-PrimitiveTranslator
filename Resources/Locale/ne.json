@@ -20,7 +20,7 @@
     "Message:Body:Export": "मोड निर्यात गर्ने?",
     "Message:Body:Load": "मोडहरू लोड गर्ने?",
     "Message:Body:Save": "परिवर्तनहरू सुरक्षित गरिएन। सुरक्षित गर्ने?",
-    "Message:Body:SaveDictionary": "शब्दकोश \"{editor.Title}\" सुरक्षित गरिएको छैन। सुरक्षित गर्ने?",
+    "Message:Body:SaveDictionary": "शब्दकोश \"{0}\" सुरक्षित गरिएको छैन। सुरक्षित गर्ने?",
     "Message:Body:Translate": "स्वचालित अनुवाद गर्ने?",
     "Message:Body:Translate:Timeout": "अनुवादकबाट कुनै प्रतिक्रिया आएन।",
     "Message:Body:Translate:Unknown": "स्वचालित अनुवाद त्रुटि भयो।",

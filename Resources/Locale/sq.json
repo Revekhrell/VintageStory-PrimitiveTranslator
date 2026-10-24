@@ -20,7 +20,7 @@
     "Message:Body:Export": "Të ekzekutohet eksportimi i mod-it?",
     "Message:Body:Load": "Të ekzekutohet ngarkimi i mod-eve?",
     "Message:Body:Save": "Ndryshimet nuk u ruajtën. Të ruhen?",
-    "Message:Body:SaveDictionary": "Fjalori \"{editor.Title}\" nuk u ruajt. Të ruhet?",
+    "Message:Body:SaveDictionary": "Fjalori \"{0}\" nuk u ruajt. Të ruhet?",
     "Message:Body:Translate": "Të ekzekutohet përkthimi automatik?",
     "Message:Body:Translate:Timeout": "Nuk erdhi përgjigje nga përkthyesi.",
     "Message:Body:Translate:Unknown": "Ndodhi një gabim në përkthimin automatik.",

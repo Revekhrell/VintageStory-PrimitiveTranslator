@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod exportieren?",
     "Message:Body:Load": "Mods laden?",
     "Message:Body:Save": "Änderungen wurden nicht gespeichert. Speichern?",
-    "Message:Body:SaveDictionary": "Wörterbuch \"{editor.Title}\" ist nicht gespeichert. Speichern?",
+    "Message:Body:SaveDictionary": "Wörterbuch \"{0}\" ist nicht gespeichert. Speichern?",
     "Message:Body:Translate": "Automatische Übersetzung durchführen?",
     "Message:Body:Translate:Timeout": "Keine Antwort vom Übersetzer.",
     "Message:Body:Translate:Unknown": "Ein automatischer Übersetzungsfehler ist aufgetreten.",

@@ -20,7 +20,7 @@
     "Message:Body:Export": "Veikt moda eksportu?",
     "Message:Body:Load": "Veikt modu ielādi?",
     "Message:Body:Save": "Izmaiņas netika saglabātas. Saglabāt?",
-    "Message:Body:SaveDictionary": "Vārdnīca \"{editor.Title}\" nav saglabāta. Saglabāt?",
+    "Message:Body:SaveDictionary": "Vārdnīca \"{0}\" nav saglabāta. Saglabāt?",
     "Message:Body:Translate": "Veikt automātisko tulkošanu?",
     "Message:Body:Translate:Timeout": "Nav atbildes no tulkotāja.",
     "Message:Body:Translate:Unknown": "Radās automātiskās tulkošanas kļūda.",

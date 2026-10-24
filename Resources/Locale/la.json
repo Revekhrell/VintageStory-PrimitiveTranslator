@@ -20,7 +20,7 @@
     "Message:Body:Export": "Exportationem modi facere?",
     "Message:Body:Load": "Onerationem modorum facere?",
     "Message:Body:Save": "Mutationes non servatae sunt. Servare?",
-    "Message:Body:SaveDictionary": "Dictionarium \"{editor.Title}\" non servatum est. Servare?",
+    "Message:Body:SaveDictionary": "Dictionarium \"{0}\" non servatum est. Servare?",
     "Message:Body:Translate": "Interpretationem automaticam facere?",
     "Message:Body:Translate:Timeout": "Nullum responsum ab interprete.",
     "Message:Body:Translate:Unknown": "Error interpretationis automaticae accidit.",

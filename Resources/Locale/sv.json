@@ -20,7 +20,7 @@
     "Message:Body:Export": "Utför export av mod?",
     "Message:Body:Load": "Utför laddning av mods?",
     "Message:Body:Save": "Ändringarna sparades inte. Spara?",
-    "Message:Body:SaveDictionary": "Ordboken \"{editor.Title}\" är inte sparad. Spara?",
+    "Message:Body:SaveDictionary": "Ordboken \"{0}\" är inte sparad. Spara?",
     "Message:Body:Translate": "Utför automatisk översättning?",
     "Message:Body:Translate:Timeout": "Inget svar från översättaren.",
     "Message:Body:Translate:Unknown": "Ett automatiskt översättningsfel uppstod.",

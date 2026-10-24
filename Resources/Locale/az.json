@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod ixrac edilsin?",
     "Message:Body:Load": "Modlar yüklənsin?",
     "Message:Body:Save": "Dəyişikliklər yadda saxlanmadı. Yadda saxlansın?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" lüğəti yadda saxlanmadı. Yadda saxlansın?",
+    "Message:Body:SaveDictionary": "\"{0}\" lüğəti yadda saxlanmadı. Yadda saxlansın?",
     "Message:Body:Translate": "Avtomatik tərcümə edilsin?",
     "Message:Body:Translate:Timeout": "Tərcüməçidən cavab gəlmədi.",
     "Message:Body:Translate:Unknown": "Avtomatik tərcümə xətası baş verdi.",

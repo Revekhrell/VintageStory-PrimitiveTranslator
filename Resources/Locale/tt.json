@@ -20,7 +20,7 @@
     "Message:Body:Export": "Модны экспортлау?",
     "Message:Body:Load": "Модларны йөкләү?",
     "Message:Body:Save": "Үзгәрешләр сакланмады. Сакларга?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" сүзлеге сакланмады. Сакларга?",
+    "Message:Body:SaveDictionary": "\"{0}\" сүзлеге сакланмады. Сакларга?",
     "Message:Body:Translate": "Автоматик тәрҗемә башкарырга?",
     "Message:Body:Translate:Timeout": "Тәрҗемәчедән җавап булмады.",
     "Message:Body:Translate:Unknown": "Автоматик тәрҗемә хатасы килеп чыкты.",

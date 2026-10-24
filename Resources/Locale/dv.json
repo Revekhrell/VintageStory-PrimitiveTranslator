@@ -20,7 +20,7 @@
     "Message:Body:Export": "މޮޑް އެކްސްޕޯޓްކުރަންތޯ؟",
     "Message:Body:Load": "މޮޑްސް ލޯޑްކުރަންތޯ؟",
     "Message:Body:Save": "ބަދަލުތައް ސޭވްނުކުރެވުނެވެ. ސޭވްކުރަންތޯ؟",
-    "Message:Body:SaveDictionary": "ޑިކްޝަނަރީ \"{editor.Title}\" ސޭވްނުކުރެވުނެވެ. ސޭވްކުރަންތޯ؟",
+    "Message:Body:SaveDictionary": "ޑިކްޝަނަރީ \"{0}\" ސޭވްނުކުރެވުނެވެ. ސޭވްކުރަންތޯ؟",
     "Message:Body:Translate": "އޮޓޯމެޓިކް ތަރުޖަމާކުރަންތޯ؟",
     "Message:Body:Translate:Timeout": "ތަރުޖަމާކުރާ ފަރާތުން ޖަވާބެއް ނައެވެ.",
     "Message:Body:Translate:Unknown": "އޮޓޯމެޓިކް ތަރުޖަމާގެ ކުށެއް ދިމާވެއްޖެއެވެ.",

@@ -20,7 +20,7 @@
     "Message:Body:Export": "Modのエクスポートを実行しますか？",
     "Message:Body:Load": "Modsの読み込みを実行しますか？",
     "Message:Body:Save": "変更は保存されていません。保存しますか？",
-    "Message:Body:SaveDictionary": "辞書 \"{editor.Title}\" は保存されていません。保存しますか？",
+    "Message:Body:SaveDictionary": "辞書 \"{0}\" は保存されていません。保存しますか？",
     "Message:Body:Translate": "自動翻訳を実行しますか？",
     "Message:Body:Translate:Timeout": "翻訳者からの応答がありません。",
     "Message:Body:Translate:Unknown": "自動翻訳エラーが発生しました。",

@@ -20,7 +20,7 @@
     "Message:Body:Export": "Thực hiện xuất mod?",
     "Message:Body:Load": "Thực hiện tải mod?",
     "Message:Body:Save": "Các thay đổi chưa được lưu. Lưu?",
-    "Message:Body:SaveDictionary": "Từ điển \"{editor.Title}\" chưa được lưu. Lưu?",
+    "Message:Body:SaveDictionary": "Từ điển \"{0}\" chưa được lưu. Lưu?",
     "Message:Body:Translate": "Thực hiện dịch tự động?",
     "Message:Body:Translate:Timeout": "Không có phản hồi từ trình dịch.",
     "Message:Body:Translate:Unknown": "Đã xảy ra lỗi dịch tự động.",

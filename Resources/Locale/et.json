@@ -20,7 +20,7 @@
     "Message:Body:Export": "Kas teostada modi eksport?",
     "Message:Body:Load": "Kas teostada modide laadimine?",
     "Message:Body:Save": "Muudatusi ei salvestatud. Salvestada?",
-    "Message:Body:SaveDictionary": "Sõnastikku \"{editor.Title}\" pole salvestatud. Salvestada?",
+    "Message:Body:SaveDictionary": "Sõnastikku \"{0}\" pole salvestatud. Salvestada?",
     "Message:Body:Translate": "Kas teostada automaatne tõlge?",
     "Message:Body:Translate:Timeout": "Tõlkijalt ei tulnud vastust.",
     "Message:Body:Translate:Unknown": "Tekkis automaatse tõlke viga.",

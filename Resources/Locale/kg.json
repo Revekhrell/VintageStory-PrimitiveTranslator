@@ -20,7 +20,7 @@
     "Message:Body:Export": "Basisa mod?",
     "Message:Body:Load": "Tula mods?",
     "Message:Body:Save": "Mbongwana me bumbama ve. Bumba?",
-    "Message:Body:SaveDictionary": "Diksionere \"{editor.Title}\" me bumbama ve. Bumba?",
+    "Message:Body:SaveDictionary": "Diksionere \"{0}\" me bumbama ve. Bumba?",
     "Message:Body:Translate": "Sala mbalula ya kiyeka?",
     "Message:Body:Translate:Timeout": "Mubaludi me pesa ve mvutu.",
     "Message:Body:Translate:Unknown": "Fita ya mbalula ya kiyeka me basika.",

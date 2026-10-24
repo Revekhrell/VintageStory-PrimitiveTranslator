@@ -20,7 +20,7 @@
     "Message:Body:Export": "Содироти мод иҷро шавад?",
     "Message:Body:Load": "Боргирии модҳо иҷро шавад?",
     "Message:Body:Save": "Тағйирот захира нашуданд. Захира шаванд?",
-    "Message:Body:SaveDictionary": "Луғати \"{editor.Title}\" захира нашудааст. Захира шавад?",
+    "Message:Body:SaveDictionary": "Луғати \"{0}\" захира нашудааст. Захира шавад?",
     "Message:Body:Translate": "Тарҷумаи автоматикӣ иҷро шавад?",
     "Message:Body:Translate:Timeout": "Аз тарҷумон ҷавоб наомад.",
     "Message:Body:Translate:Unknown": "Хатои тарҷумаи автоматикӣ рух дод.",

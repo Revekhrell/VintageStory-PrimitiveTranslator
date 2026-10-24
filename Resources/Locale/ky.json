@@ -20,7 +20,7 @@
     "Message:Body:Export": "Модду экспорттоо керекпи?",
     "Message:Body:Load": "Моддорду жүктөө керекпи?",
     "Message:Body:Save": "Өзгөртүүлөр сакталган жок. Сактоо керекпи?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" сөздүгү сакталган жок. Сактоо керекпи?",
+    "Message:Body:SaveDictionary": "\"{0}\" сөздүгү сакталган жок. Сактоо керекпи?",
     "Message:Body:Translate": "Автоматтык которууну аткаруу керекпи?",
     "Message:Body:Translate:Timeout": "Котормочудан жооп болгон жок.",
     "Message:Body:Translate:Unknown": "Автоматтык которуу катасы кетти.",

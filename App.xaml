@@ -949,7 +949,7 @@
                     <Style x:Key="TextEditorStyle" TargetType="{x:Type AvalonEdit:TextEditor}" BasedOn="{StaticResource ControlStyle}">
                         <Setter Property="Foreground" Value="{StaticResource ForegroundDefault}"/>
                         <Setter Property="Background" Value="{StaticResource BackgroundDefault}"/>
-                        <Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Auto"/>
+                        <Setter Property="ScrollViewer.HorizontalScrollBarVisibility" Value="Disabled"/>
                         <Setter Property="ScrollViewer.VerticalScrollBarVisibility" Value="Auto"/>
                         <Setter Property="Padding" Value="3"/>
                         <Setter Property="Template">

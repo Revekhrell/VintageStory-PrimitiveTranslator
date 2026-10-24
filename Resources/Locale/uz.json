@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod eksport qilinsinmi?",
     "Message:Body:Load": "Modlar yuklansinmi?",
     "Message:Body:Save": "O‘zgarishlar saqlanmadi. Saqlansinmi?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" lug‘ati saqlanmadi. Saqlansinmi?",
+    "Message:Body:SaveDictionary": "\"{0}\" lug‘ati saqlanmadi. Saqlansinmi?",
     "Message:Body:Translate": "Avtomatik tarjima amalga oshirilsinmi?",
     "Message:Body:Translate:Timeout": "Tarjimondan javob kelmadi.",
     "Message:Body:Translate:Unknown": "Avtomatik tarjima xatosi yuz berdi.",

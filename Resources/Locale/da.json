@@ -20,7 +20,7 @@
     "Message:Body:Export": "Udfør eksport af mod?",
     "Message:Body:Load": "Udfør indlæsning af mods?",
     "Message:Body:Save": "Ændringer blev ikke gemt. Gem?",
-    "Message:Body:SaveDictionary": "Ordbogen \"{editor.Title}\" er ikke gemt. Gem?",
+    "Message:Body:SaveDictionary": "Ordbogen \"{0}\" er ikke gemt. Gem?",
     "Message:Body:Translate": "Udfør automatisk oversættelse?",
     "Message:Body:Translate:Timeout": "Ingen respons fra oversætteren.",
     "Message:Body:Translate:Unknown": "Der opstod en automatisk oversættelsesfejl.",

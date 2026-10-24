@@ -1,4 +1,4 @@
-{
+﻿{
     "InterfaceStrings:MainWindowTitle": "Примитивный переводчик для примитивных переводчиков",
     "InterfaceStrings:SettingsHeader": "Настройки",
     "InterfaceStrings:LanguageLabel": "Язык",
@@ -25,7 +25,7 @@
     "Message:Body:Export": "Выполнить экспорт мода?",
     "Message:Body:Load": "Выполнить загрузку модов?",
     "Message:Body:Save": "Изменения не были сохранены. Сохранить?",
-    "Message:Body:SaveDictionary": "Словарь \"{editor.Title}\" не сохранён. Сохранить?",
+    "Message:Body:SaveDictionary": "Словарь \"{0}\" не сохранён. Сохранить?",
     "Message:Body:Translate": "Выполнить автоматический перевод?",
     "Message:Body:Translate:Timeout": "От переводчика не последовало ответа.",
     "Message:Body:Translate:Unknown": "Возникла ошибка автоматического перевода.",

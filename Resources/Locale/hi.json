@@ -20,7 +20,7 @@
     "Message:Body:Export": "मॉड निर्यात करें?",
     "Message:Body:Load": "मॉड लोड करें?",
     "Message:Body:Save": "परिवर्तन सहेजे नहीं गए। सहेजें?",
-    "Message:Body:SaveDictionary": "शब्दकोश \"{editor.Title}\" सहेजा नहीं गया। सहेजें?",
+    "Message:Body:SaveDictionary": "शब्दकोश \"{0}\" सहेजा नहीं गया। सहेजें?",
     "Message:Body:Translate": "स्वचालित अनुवाद करें?",
     "Message:Body:Translate:Timeout": "अनुवादक से कोई प्रतिक्रिया नहीं आई।",
     "Message:Body:Translate:Unknown": "स्वचालित अनुवाद में त्रुटि हुई।",

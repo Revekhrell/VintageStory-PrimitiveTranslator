@@ -20,7 +20,7 @@
     "Message:Body:Export": "Виконати експорт моду?",
     "Message:Body:Load": "Виконати завантаження модів?",
     "Message:Body:Save": "Зміни не були збережені. Зберегти?",
-    "Message:Body:SaveDictionary": "Словник \"{editor.Title}\" не збережено. Зберегти?",
+    "Message:Body:SaveDictionary": "Словник \"{0}\" не збережено. Зберегти?",
     "Message:Body:Translate": "Виконати автоматичний переклад?",
     "Message:Body:Translate:Timeout": "Від перекладача не надійшло відповіді.",
     "Message:Body:Translate:Unknown": "Виникла помилка автоматичного перекладу.",

@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod dışa aktarılsın mı?",
     "Message:Body:Load": "Modlar yüklensin mi?",
     "Message:Body:Save": "Değişiklikler kaydedilmedi. Kaydedilsin mi?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" sözlüğü kaydedilmedi. Kaydedilsin mi?",
+    "Message:Body:SaveDictionary": "\"{0}\" sözlüğü kaydedilmedi. Kaydedilsin mi?",
     "Message:Body:Translate": "Otomatik çeviri yapılsın mı?",
     "Message:Body:Translate:Timeout": "Çevirmenden yanıt gelmedi.",
     "Message:Body:Translate:Unknown": "Otomatik çeviri hatası oluştu.",

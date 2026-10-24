@@ -20,7 +20,7 @@
     "Message:Body:Export": "Mod exporteren?",
     "Message:Body:Load": "Mods laden?",
     "Message:Body:Save": "Wijzigingen zijn niet opgeslagen. Opslaan?",
-    "Message:Body:SaveDictionary": "Woordenboek \"{editor.Title}\" is niet opgeslagen. Opslaan?",
+    "Message:Body:SaveDictionary": "Woordenboek \"{0}\" is niet opgeslagen. Opslaan?",
     "Message:Body:Translate": "Automatische vertaling uitvoeren?",
     "Message:Body:Translate:Timeout": "Geen reactie van de vertaler.",
     "Message:Body:Translate:Unknown": "Er is een automatische vertaalfout opgetreden.",

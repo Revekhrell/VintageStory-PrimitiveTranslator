@@ -20,7 +20,7 @@
     "Message:Body:Export": "შესრულდეს მოდის ექსპორტი?",
     "Message:Body:Load": "შესრულდეს მოდების ჩატვირთვა?",
     "Message:Body:Save": "ცვლილებები არ შენახულა. შენახვა?",
-    "Message:Body:SaveDictionary": "ლექსიკონი \"{editor.Title}\" არ არის შენახული. შენახვა?",
+    "Message:Body:SaveDictionary": "ლექსიკონი \"{0}\" არ არის შენახული. შენახვა?",
     "Message:Body:Translate": "შესრულდეს ავტომატური თარგმნა?",
     "Message:Body:Translate:Timeout": "მთარგმნელისგან პასუხი არ მოვიდა.",
     "Message:Body:Translate:Unknown": "მოხდა ავტომატური თარგმნის შეცდომა.",

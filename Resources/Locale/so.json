@@ -20,7 +20,7 @@
     "Message:Body:Export": "Samee dhoofinta mod?",
     "Message:Body:Load": "Samee rarista mods?",
     "Message:Body:Save": "Isbeddellada lama kaydin. Kaydi?",
-    "Message:Body:SaveDictionary": "Qaamuuska \"{editor.Title}\" lama kaydin. Kaydi?",
+    "Message:Body:SaveDictionary": "Qaamuuska \"{0}\" lama kaydin. Kaydi?",
     "Message:Body:Translate": "Samee turjumaad otomaatig ah?",
     "Message:Body:Translate:Timeout": "Jawaab kama iman turjumaadaha.",
     "Message:Body:Translate:Unknown": "Khalad turjumaad otomaatig ah ayaa dhacay.",

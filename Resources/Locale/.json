@@ -20,7 +20,7 @@
     "Message:Body:Export": "Export mod?",
     "Message:Body:Load": "Load mods?",
     "Message:Body:Save": "Changes were not saved. Save?",
-    "Message:Body:SaveDictionary": "Dictionary \"{editor.Title}\" is not saved. Save?",
+    "Message:Body:SaveDictionary": "Dictionary \"{0}\" is not saved. Save?",
     "Message:Body:Translate": "Perform automatic translation?",
     "Message:Body:Translate:Timeout": "No response from the translator.",
     "Message:Body:Translate:Unknown": "An automatic translation error occurred.",

@@ -20,7 +20,7 @@
     "Message:Body:Export": "Wykonać eksport moda?",
     "Message:Body:Load": "Wykonać wczytywanie modów?",
     "Message:Body:Save": "Zmiany nie zostały zapisane. Zapisać?",
-    "Message:Body:SaveDictionary": "Słownik \"{editor.Title}\" nie został zapisany. Zapisać?",
+    "Message:Body:SaveDictionary": "Słownik \"{0}\" nie został zapisany. Zapisać?",
     "Message:Body:Translate": "Wykonać automatyczne tłumaczenie?",
     "Message:Body:Translate:Timeout": "Brak odpowiedzi od tłumacza.",
     "Message:Body:Translate:Unknown": "Wystąpił błąd automatycznego tłumaczenia.",

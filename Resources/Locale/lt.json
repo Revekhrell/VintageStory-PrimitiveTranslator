@@ -20,7 +20,7 @@
     "Message:Body:Export": "Atlikti modifikacijos eksportavimą?",
     "Message:Body:Load": "Atlikti modų įkėlimą?",
     "Message:Body:Save": "Pakeitimai nebuvo išsaugoti. Išsaugoti?",
-    "Message:Body:SaveDictionary": "Žodynas \"{editor.Title}\" neišsaugotas. Išsaugoti?",
+    "Message:Body:SaveDictionary": "Žodynas \"{0}\" neišsaugotas. Išsaugoti?",
     "Message:Body:Translate": "Atlikti automatinį vertimą?",
     "Message:Body:Translate:Timeout": "Nebuvo atsakymo iš vertėjo.",
     "Message:Body:Translate:Unknown": "Įvyko automatinio vertimo klaida.",

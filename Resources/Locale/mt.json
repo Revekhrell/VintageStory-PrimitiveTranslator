@@ -20,7 +20,7 @@
     "Message:Body:Export": "Esegwi l-esportazzjoni tal-mod?",
     "Message:Body:Load": "Esegwi t-tagħbija tal-mods?",
     "Message:Body:Save": "Il-bidliet ma ġewx issejvjati. Issejvja?",
-    "Message:Body:SaveDictionary": "Id-dizzjunarju \"{editor.Title}\" mhuwiex issejvjat. Issejvja?",
+    "Message:Body:SaveDictionary": "Id-dizzjunarju \"{0}\" mhuwiex issejvjat. Issejvja?",
     "Message:Body:Translate": "Esegwi traduzzjoni awtomatika?",
     "Message:Body:Translate:Timeout": "L-ebda risposta mit-traduttur.",
     "Message:Body:Translate:Unknown": "Seħħ żball fit-traduzzjoni awtomatika.",

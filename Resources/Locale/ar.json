@@ -20,7 +20,7 @@
     "Message:Body:Export": "تنفيذ تصدير التعديل؟",
     "Message:Body:Load": "تنفيذ تحميل التعديلات؟",
     "Message:Body:Save": "لم يتم حفظ التغييرات. هل تريد الحفظ؟",
-    "Message:Body:SaveDictionary": "القاموس \"{editor.Title}\" غير محفوظ. هل تريد الحفظ؟",
+    "Message:Body:SaveDictionary": "القاموس \"{0}\" غير محفوظ. هل تريد الحفظ؟",
     "Message:Body:Translate": "تنفيذ الترجمة التلقائية؟",
     "Message:Body:Translate:Timeout": "لا يوجد رد من المترجم.",
     "Message:Body:Translate:Unknown": "حدث خطأ في الترجمة التلقائية.",

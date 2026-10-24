@@ -20,7 +20,7 @@
     "Message:Body:Export": "Kauta yani na mod?",
     "Message:Body:Load": "Vakavoui na mods?",
     "Message:Body:Save": "Na veisautaki e sega ni maroroi. Maroroi?",
-    "Message:Body:SaveDictionary": "Na dikisenari \"{editor.Title}\" e sega ni maroroi. Maroroi?",
+    "Message:Body:SaveDictionary": "Na dikisenari \"{0}\" e sega ni maroroi. Maroroi?",
     "Message:Body:Translate": "Cakava na vakadewataki livaliva?",
     "Message:Body:Translate:Timeout": "Sega na isau mai na vakadewataki.",
     "Message:Body:Translate:Unknown": "E yaco na calaka ni vakadewataki livaliva.",

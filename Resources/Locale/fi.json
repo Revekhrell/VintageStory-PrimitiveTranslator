@@ -20,7 +20,7 @@
     "Message:Body:Export": "Suoritetaanko modin vienti?",
     "Message:Body:Load": "Suoritetaanko modien lataus?",
     "Message:Body:Save": "Muutoksia ei tallennettu. Tallennetaanko?",
-    "Message:Body:SaveDictionary": "Sanakirjaa \"{editor.Title}\" ei ole tallennettu. Tallennetaanko?",
+    "Message:Body:SaveDictionary": "Sanakirjaa \"{0}\" ei ole tallennettu. Tallennetaanko?",
     "Message:Body:Translate": "Suoritetaanko automaattinen käännös?",
     "Message:Body:Translate:Timeout": "Kääntäjältä ei tullut vastausta.",
     "Message:Body:Translate:Unknown": "Automaattisessa käännöksessä tapahtui virhe.",

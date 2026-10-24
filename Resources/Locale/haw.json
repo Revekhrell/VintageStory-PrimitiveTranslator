@@ -20,7 +20,7 @@
     "Message:Body:Export": "E hana i ka hoʻokuʻu mod?",
     "Message:Body:Load": "E hana i ka hoʻouka mods?",
     "Message:Body:Save": "ʻAʻole i mālama ʻia nā hoʻololi. Mālama?",
-    "Message:Body:SaveDictionary": "ʻAʻole i mālama ʻia ka puke wehewehe \"{editor.Title}\". Mālama?",
+    "Message:Body:SaveDictionary": "ʻAʻole i mālama ʻia ka puke wehewehe \"{0}\". Mālama?",
     "Message:Body:Translate": "E hana i ka unuhi ʻakomi?",
     "Message:Body:Translate:Timeout": "ʻAʻohe pane mai ka unuhi.",
     "Message:Body:Translate:Unknown": "Ua loaʻa kahi hapa unuhi ʻakomi.",

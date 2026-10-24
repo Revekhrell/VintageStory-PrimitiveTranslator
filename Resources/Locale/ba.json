@@ -20,7 +20,7 @@
     "Message:Body:Export": "Модты экспортларғамы?",
     "Message:Body:Load": "Модтарҙы йөкләргәме?",
     "Message:Body:Save": "Үҙгәрештәр һаҡланмаған. Һаҡларғамы?",
-    "Message:Body:SaveDictionary": "\"{editor.Title}\" һүҙлеге һаҡланмаған. Һаҡларғамы?",
+    "Message:Body:SaveDictionary": "\"{0}\" һүҙлеге һаҡланмаған. Һаҡларғамы?",
     "Message:Body:Translate": "Автоматик тәржемәне башҡарырғамы?",
     "Message:Body:Translate:Timeout": "Тәржемәнән яуап булманы.",
     "Message:Body:Translate:Unknown": "Автоматик тәржемә хатаһы килеп сыҡты.",

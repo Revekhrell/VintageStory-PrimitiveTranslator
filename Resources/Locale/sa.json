@@ -20,7 +20,7 @@
     "Message:Body:Export": "मोड-निर्यातं करोतु?",
     "Message:Body:Load": "मोड-आरोपणं करोतु?",
     "Message:Body:Save": "परिवर्तनानि न रक्षितानि। रक्षतु?",
-    "Message:Body:SaveDictionary": "शब्दकोशः \"{editor.Title}\" न रक्षितः। रक्षतु?",
+    "Message:Body:SaveDictionary": "शब्दकोशः \"{0}\" न रक्षितः। रक्षतु?",
     "Message:Body:Translate": "स्वचालित-अनुवादं करोतु?",
     "Message:Body:Translate:Timeout": "अनुवादकात् उत्तरं न प्राप्तम्।",
     "Message:Body:Translate:Unknown": "स्वचालित-अनुवादे दोषः अभवत्।",

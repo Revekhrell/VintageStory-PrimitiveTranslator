@@ -20,7 +20,7 @@
     "Message:Body:Export": "Efectuează exportul modului?",
     "Message:Body:Load": "Efectuează încărcarea modurilor?",
     "Message:Body:Save": "Modificările nu au fost salvate. Salvează?",
-    "Message:Body:SaveDictionary": "Dicționarul \"{editor.Title}\" nu este salvat. Salvează?",
+    "Message:Body:SaveDictionary": "Dicționarul \"{0}\" nu este salvat. Salvează?",
     "Message:Body:Translate": "Efectuează traducerea automată?",
     "Message:Body:Translate:Timeout": "Nu a venit niciun răspuns de la traducător.",
     "Message:Body:Translate:Unknown": "A apărut o eroare de traducere automată.",

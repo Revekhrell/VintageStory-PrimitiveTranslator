@@ -20,7 +20,7 @@
     "Message:Body:Export": "Isagawa ang export ng mod?",
     "Message:Body:Load": "Isagawa ang pag-load ng mods?",
     "Message:Body:Save": "Hindi na-save ang mga pagbabago. I-save?",
-    "Message:Body:SaveDictionary": "Ang diksyunaryo \"{editor.Title}\" ay hindi na-save. I-save?",
+    "Message:Body:SaveDictionary": "Ang diksyunaryo \"{0}\" ay hindi na-save. I-save?",
     "Message:Body:Translate": "Magsagawa ng awtomatikong pagsasalin?",
     "Message:Body:Translate:Timeout": "Walang tugon mula sa tagasalin.",
     "Message:Body:Translate:Unknown": "May naganap na error sa awtomatikong pagsasalin.",

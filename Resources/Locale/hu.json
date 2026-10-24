@@ -20,7 +20,7 @@
     "Message:Body:Export": "Végrehajtja a mod exportálását?",
     "Message:Body:Load": "Végrehajtja a modok betöltését?",
     "Message:Body:Save": "A változtatások nincsenek mentve. Mentés?",
-    "Message:Body:SaveDictionary": "A(z) \"{editor.Title}\" szótár nincs mentve. Mentés?",
+    "Message:Body:SaveDictionary": "A(z) \"{0}\" szótár nincs mentve. Mentés?",
     "Message:Body:Translate": "Végrehajtja az automatikus fordítást?",
     "Message:Body:Translate:Timeout": "Nem érkezett válasz a fordítótól.",
     "Message:Body:Translate:Unknown": "Hiba történt az automatikus fordítás során.",

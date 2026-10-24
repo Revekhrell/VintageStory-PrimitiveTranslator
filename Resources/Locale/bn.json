@@ -20,7 +20,7 @@
     "Message:Body:Export": "মড এক্সপোর্ট করবেন?",
     "Message:Body:Load": "মড লোড করবেন?",
     "Message:Body:Save": "পরিবর্তনগুলি সংরক্ষণ করা হয়নি। সংরক্ষণ করবেন?",
-    "Message:Body:SaveDictionary": "অভিধান \"{editor.Title}\" সংরক্ষিত নয়। সংরক্ষণ করবেন?",
+    "Message:Body:SaveDictionary": "অভিধান \"{0}\" সংরক্ষিত নয়। সংরক্ষণ করবেন?",
     "Message:Body:Translate": "স্বয়ংক্রিয় অনুবাদ করবেন?",
     "Message:Body:Translate:Timeout": "অনুবাদকের কাছ থেকে কোনো সাড়া আসেনি।",
     "Message:Body:Translate:Unknown": "একটি স্বয়ংক্রিয় অনুবাদ ত্রুটি ঘটেছে।",

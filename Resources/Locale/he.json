@@ -20,7 +20,7 @@
     "Message:Body:Export": "לבצע ייצוא מוד?",
     "Message:Body:Load": "לבצע טעינת מודים?",
     "Message:Body:Save": "השינויים לא נשמרו. לשמור?",
-    "Message:Body:SaveDictionary": "המילון \"{editor.Title}\" לא נשמר. לשמור?",
+    "Message:Body:SaveDictionary": "המילון \"{0}\" לא נשמר. לשמור?",
     "Message:Body:Translate": "לבצע תרגום אוטומטי?",
     "Message:Body:Translate:Timeout": "לא התקבלה תגובה מהמתרגם.",
     "Message:Body:Translate:Unknown": "אירעה שגיאה בתרגום אוטומטי.",

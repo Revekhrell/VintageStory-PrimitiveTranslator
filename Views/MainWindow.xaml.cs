@@ -947,9 +947,11 @@ namespace PrimitiveTranslator.Views
                 return;
 
             // Формирование словарей
-            Dictionary<string, string> dictionary = new Dictionary<string, string>();
-            List<string> modified = new List<string>();
-            List<string> @new = new List<string>();
+            List<string> newKeys = new List<string>();
+            List<string> modifiedKeys = new List<string>();
+            Dictionary<string, string> newRecords = new Dictionary<string, string>();
+            Dictionary<string, string> oldRecords = new Dictionary<string, string>();
+            Dictionary<string, string> modifiedRecords = new Dictionary<string, string>();
             foreach (Key key in cached.Keys)
             {
                 // Поиск оригинального значения
@@ -964,23 +966,33 @@ namespace PrimitiveTranslator.Views
                     if (translatedValue.Timestamp < originalValue.Timestamp)
                     {
                         string value = $"{originalValue.Text}{DictionaryEditor.ModifiedValuesSeparator}{translatedValue.Text}";
-                        dictionary.Add(key.Text, value);
-                        modified.Add(key.Text);
+                        modifiedRecords.Add(key.Text, value);
+                        modifiedKeys.Add(key.Text);
                     }
                     else
                     {
-                        dictionary.Add(key.Text, translatedValue.Text);
+                        oldRecords.Add(key.Text, translatedValue.Text);
                     }
                 }
                 else
                 {
-                    dictionary.Add(key.Text, originalValue.Text);
-                    @new.Add(key.Text);
+                    newRecords.Add(key.Text, originalValue.Text);
+                    newKeys.Add(key.Text);
                 }
             }
 
+            // Объекдинение словаря
+            int capacity = newRecords.Count + oldRecords.Count + modifiedRecords.Count;
+            Dictionary<string, string> dictionary = new Dictionary<string, string>(capacity);
+            foreach (KeyValuePair<string, string> pair in newRecords)
+                dictionary.Add(pair.Key, pair.Value);
+            foreach (KeyValuePair<string, string> pair in oldRecords)
+                dictionary.Add(pair.Key, pair.Value);
+            foreach (KeyValuePair<string, string> pair in modifiedRecords)
+                dictionary.Add(pair.Key, pair.Value);
+
             // Добавление вкладки
-            CurrentDispatcher.Invoke(() => AddTab(new DictionaryEditor(mod.UID, mod.Language, language, dictionary, modified, @new)));
+            CurrentDispatcher.Invoke(() => AddTab(new DictionaryEditor(mod.UID, mod.Language, language, dictionary, modifiedKeys, newKeys)));
         }
         /// <summary>
         ///     Открывает словарь текущего мода.
