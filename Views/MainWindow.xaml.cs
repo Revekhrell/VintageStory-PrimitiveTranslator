@@ -30,6 +30,7 @@ using System.Windows.Input;
 using System.Windows.Threading;
 using Key = PrimitiveTranslator.Data.Models.Key;
 using ExceptionHelper = Cybrex.Core.Exceptions.ExceptionHelper;
+using PrimitiveTranslator.Comparers;
 
 namespace PrimitiveTranslator.Views
 {
@@ -1475,6 +1476,10 @@ namespace PrimitiveTranslator.Views
                 }
                 mod.HasKeysChanges = hasChangedKeys;
             }
+
+            // Сортировка
+            CurrentDispatcher.Invoke(() => Mods.Sort(ModItemComparer.Instance));
+            CurrentDispatcher.Invoke(ModsView.Refresh);
 
             // Завершение
             FreeDataContext();

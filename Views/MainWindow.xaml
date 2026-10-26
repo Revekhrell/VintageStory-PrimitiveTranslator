@@ -182,7 +182,7 @@
             <Border Grid.Row="2" Margin="3,0,3,3" BorderThickness="1" BorderBrush="{StaticResource BorderBrushDefault}"
                     CornerRadius="3">
                 <ListBox x:Name="ModsListBox" ItemsSource="{Binding ModsView}" SelectedIndex="{Binding SelectedModIndex}"
-                         BorderThickness="0" SelectionMode="Extended" Style="{DynamicResource ListBoxStyle}">
+                         BorderThickness="0" SelectionMode="Extended" Style="{StaticResource ListBoxStyle}">
                     <ListBox.ItemTemplate>
                         <DataTemplate DataType="{x:Type dmodels:Mod}">
                             <Grid ToolTip="{Binding Description}" ToolTipService.InitialShowDelay="2000">
