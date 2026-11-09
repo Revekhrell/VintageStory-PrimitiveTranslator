@@ -241,10 +241,15 @@ namespace PrimitiveTranslator.Views
             // Применение состояния
             Action action = () =>
             {
-                Left = state.LeftOffset;
-                Top = state.LeftOffset;
-                Width = state.Width;
-                Height = state.Height;
+                double width = SystemParameters.PrimaryScreenWidth;
+                double height = SystemParameters.PrimaryScreenHeight;
+                if (state.LeftOffset > 0 && state.LeftOffset <= width - 160 && state.TopOffset > 0 && state.TopOffset <= height - 39 && state.Width > 0 && state.Width <= width && state.Height > 0 && state.Height <= height)
+                {
+                    Left = state.LeftOffset;
+                    Top = state.TopOffset;
+                    Width = state.Width;
+                    Height = state.Height;
+                }
                 WindowState = state.State;
             };
             Dispatcher.Invoke(action);
